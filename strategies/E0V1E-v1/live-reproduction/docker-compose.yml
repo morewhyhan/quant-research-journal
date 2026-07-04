@@ -1,0 +1,18 @@
+---
+services:
+  freqtrade:
+    image: freqtradeorg/freqtrade:stable
+    restart: unless-stopped
+    container_name: freqtrade
+    volumes:
+      - "./user_data:/freqtrade/user_data"
+    ports:
+      - "0.0.0.0:8080:8080"
+
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+    entrypoint: ["/bin/bash", "/freqtrade/user_data/entrypoint.sh"]
