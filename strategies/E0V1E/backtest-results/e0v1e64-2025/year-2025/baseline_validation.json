@@ -1,0 +1,7 @@
+{
+  "trade_count": true,
+  "profit_total": true,
+  "profit_factor": true,
+  "max_drawdown_account": true,
+  "entry_exit_sequence": true
+}
