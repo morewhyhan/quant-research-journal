@@ -1,0 +1,173 @@
+{
+  "all_15_passed": true,
+  "year_available_but_not_exported": [
+    "USDC/USDT:USDT"
+  ],
+  "records": [
+    {
+      "period": "year-2025",
+      "version": "V5",
+      "trades": 855,
+      "result_sha256": "c10f8cb596949fbc88532e79a3187245e5073f11b59c84cd66a3dc70b2fbbc6d",
+      "pairlist_count": 180,
+      "funding_total": 0.0,
+      "validity": "relative_comparison_without_funding",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V6",
+      "trades": 850,
+      "result_sha256": "e0f43be4ba9487cd646fb2369ded53c7851c723c3b4928a0a510e3d0cef6887f",
+      "pairlist_count": 180,
+      "funding_total": 0.0,
+      "validity": "relative_comparison_without_funding",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V7",
+      "trades": 847,
+      "result_sha256": "7a542b7d72261f2dba9ab7f40ded2ea86ed71b7ca1970d0786a800bd963424fa",
+      "pairlist_count": 180,
+      "funding_total": 0.0,
+      "validity": "relative_comparison_without_funding",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V8",
+      "trades": 972,
+      "result_sha256": "846bc6d2bec6beaecee85f84e514978d8e8c3e09eb78b41379e304ee0616dd86",
+      "pairlist_count": 180,
+      "funding_total": 0.0,
+      "validity": "relative_comparison_without_funding",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V9",
+      "trades": 855,
+      "result_sha256": "5c0370cc64ec9c5ec3091fb56513b0f62f962b76541f5edaf19d82ebfcfe728f",
+      "pairlist_count": 180,
+      "funding_total": 0.0,
+      "validity": "relative_comparison_without_funding",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "july-2026",
+      "version": "V5",
+      "trades": 56,
+      "result_sha256": "29910a85af913a1a734b3a8ba3cbd49d42515ad66483735e6911674c2b00503b",
+      "pairlist_count": 196,
+      "funding_total": 0.0,
+      "validity": "invalid_missing_mark",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "july-2026",
+      "version": "V6",
+      "trades": 56,
+      "result_sha256": "4835fa92ebd4b339ca1a7026bb55980617f4e1ed14de38899b6e77fe84a320ad",
+      "pairlist_count": 196,
+      "funding_total": 0.0,
+      "validity": "invalid_missing_mark",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "july-2026",
+      "version": "V7",
+      "trades": 58,
+      "result_sha256": "b734986f7a6d9b5756c55d5cf8da6110fffdbbb56c6b4030a84391a64d0e6b0c",
+      "pairlist_count": 196,
+      "funding_total": 0.0,
+      "validity": "invalid_missing_mark",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "july-2026",
+      "version": "V8",
+      "trades": 53,
+      "result_sha256": "eac7cbdf378e64448b332cbc13ecffa282d280867fb91fcda07e692f95f2ae3b",
+      "pairlist_count": 196,
+      "funding_total": 0.0,
+      "validity": "invalid_missing_mark",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "july-2026",
+      "version": "V9",
+      "trades": 56,
+      "result_sha256": "f334150c700880bd12b113a56f292d65c63d48f0c8462729150bde0256fc1134",
+      "pairlist_count": 196,
+      "funding_total": 0.0,
+      "validity": "invalid_missing_mark",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "june-2026",
+      "version": "V5",
+      "trades": 100,
+      "result_sha256": "73f0a690cf30c42f7565e22bc7ef9d6c6cc6343ebd2774ee439cb8586d55f385",
+      "pairlist_count": 174,
+      "funding_total": 115.11819437256692,
+      "validity": "short_period_with_funding",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "june-2026",
+      "version": "V6",
+      "trades": 91,
+      "result_sha256": "1dc35b3e1928453862b1735d035dbdf222927a559cb67353de7dbf05d3fdb5d6",
+      "pairlist_count": 174,
+      "funding_total": 143.5383173039543,
+      "validity": "short_period_with_funding",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "june-2026",
+      "version": "V7",
+      "trades": 102,
+      "result_sha256": "50314abd0ba203063c8c73758338828dd109a3cb914e73a41cb97d46ad7e3f08",
+      "pairlist_count": 174,
+      "funding_total": 93.9808529868899,
+      "validity": "short_period_with_funding",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "june-2026",
+      "version": "V8",
+      "trades": 116,
+      "result_sha256": "6921a610dc6094ec3746c9d23b6e2a22d09043d0fd46642fedaa3363de326dec",
+      "pairlist_count": 174,
+      "funding_total": 94.64656050415589,
+      "validity": "short_period_with_funding",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    },
+    {
+      "period": "june-2026",
+      "version": "V9",
+      "trades": 100,
+      "result_sha256": "d771b0b2b9196487c70eaa5e110c050b10b69225919fa555a74190ca0f3bab76",
+      "pairlist_count": 174,
+      "funding_total": 113.41748941742895,
+      "validity": "short_period_with_funding",
+      "public_config_checked": true,
+      "input_hashes_verified": true
+    }
+  ]
+}
