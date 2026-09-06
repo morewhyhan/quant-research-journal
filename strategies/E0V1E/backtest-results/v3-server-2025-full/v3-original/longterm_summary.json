@@ -1,0 +1,41 @@
+[
+  {
+    "strategy": "E0V1E_v3",
+    "trades": 863,
+    "wins": 749,
+    "losses": 114,
+    "win_rate_pct": 86.79026651216685,
+    "mean_position_ev_pct": 0.3324519291499937,
+    "naive_ev_95ci_pct": [
+      0.04292781218227103,
+      0.6219760461177164
+    ],
+    "avg_win_pct": 1.6614146096059874,
+    "avg_loss_pct": -8.399066032793334,
+    "payoff_ratio": 0.19780944727891842,
+    "total_return_pct": 379.504228411,
+    "geometric_monthly_return_pct": 12.815467994150653,
+    "dollar_expectancy_per_trade": 35.179997998702206,
+    "profit_factor": 1.3318698168652188,
+    "max_drawdown_pct": 32.34163853594718,
+    "drawdown_duration": "10 days 18:30:00",
+    "sharpe": 3.3747851472112504,
+    "sortino": 2.0795045762175786,
+    "calmar": 61.41976747828385,
+    "sqn": 2.1935,
+    "positive_months": 9,
+    "negative_months": 4,
+    "mean_monthly_return_pct": 17.43899168489663,
+    "median_monthly_return_pct": 2.332230834429744,
+    "monthly_volatility_pct": 38.38340975162686,
+    "best_month_pct": 117.77034766519363,
+    "worst_month_pct": -27.07524042736732,
+    "best_two_month_profit_share_pct": 79.24710093319948,
+    "long_return_pct": 76.90856169162498,
+    "short_return_pct": 302.59566671937506,
+    "position_level_counts": {
+      "60.00%": 506,
+      "97.00%": 357
+    }
+  }
+]
