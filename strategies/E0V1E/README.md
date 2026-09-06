@@ -55,3 +55,20 @@
 - V3 longstake25 在 2025 和 2026H1 很强，但 2024 亏损。
 - V3 marketregime 没有解决问题。
 
+## 研究仓库与 2025 全年复测
+
+本项目 GitHub 仓库：[quant-research-journal](https://github.com/morewhyhan/quant-research-journal)
+
+本次使用服务器归档的 196 个实际数据币对，对照了：
+
+1. 仓库 V3 Original；
+2. 仓库 V3 Original + 60/40 动态仓位；
+3. 服务器当前 V3；
+4. 服务器当前 V3 + 60/40 动态仓位研究版。
+
+详细结果：[2025 全年四版本复测说明](backtest-results/v3-server-2025-full/README.md)。
+
+源码与参数：[V3 Original 动态仓位版](versions/v3-original/README.md)、[服务器当前版及动态仓位研究版](versions/v3-server-current/README.md)。
+
+服务器实盘当前仍运行服务器当前 V3；60/40 版本是本地研究回放，尚未部署到服务器。
+
