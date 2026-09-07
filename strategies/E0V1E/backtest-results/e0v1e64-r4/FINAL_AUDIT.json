@@ -1,0 +1,117 @@
+{
+  "passed": true,
+  "new_backtests": 8,
+  "reused_baselines": 2,
+  "checks": [
+    {
+      "period": "apr-jun-2026",
+      "version": "V5",
+      "result_sha256": "f278a05e7bdafd3bdccea2409558b4c86872cf141865ed487e0e10d90bfbacb7",
+      "reused": true,
+      "trades": 255,
+      "source_and_data_verified": true,
+      "public_config_checked": true,
+      "equity_reconciled": true,
+      "valuation_gap_pairs": []
+    },
+    {
+      "period": "apr-jun-2026",
+      "version": "V14",
+      "result_sha256": "97756c4ef02681088975b93ca7bbe2ddfe0caaadff80411fe709026269520c51",
+      "reused": false,
+      "trades": 225,
+      "source_and_data_verified": true,
+      "public_config_checked": true,
+      "equity_reconciled": true,
+      "valuation_gap_pairs": []
+    },
+    {
+      "period": "apr-jun-2026",
+      "version": "V15",
+      "result_sha256": "f783dfcc634d1f087e4a899a7aa19d1070557f560fa79858104837d2de5113a8",
+      "reused": false,
+      "trades": 255,
+      "source_and_data_verified": true,
+      "public_config_checked": true,
+      "equity_reconciled": true,
+      "valuation_gap_pairs": []
+    },
+    {
+      "period": "apr-jun-2026",
+      "version": "V16",
+      "result_sha256": "5b40aba2a202511e9d1627fd8f6f0aed732724f3a4763d9a12901f7c8f67a1fc",
+      "reused": false,
+      "trades": 327,
+      "source_and_data_verified": true,
+      "public_config_checked": true,
+      "equity_reconciled": true,
+      "valuation_gap_pairs": []
+    },
+    {
+      "period": "apr-jun-2026",
+      "version": "V17",
+      "result_sha256": "749995d6910328cbb348128d28d0267b732dfc9705c9f6dddd051bdbea164f42",
+      "reused": false,
+      "trades": 255,
+      "source_and_data_verified": true,
+      "public_config_checked": true,
+      "equity_reconciled": true,
+      "valuation_gap_pairs": []
+    },
+    {
+      "period": "year-2025",
+      "version": "V5",
+      "result_sha256": "c10f8cb596949fbc88532e79a3187245e5073f11b59c84cd66a3dc70b2fbbc6d",
+      "reused": true,
+      "trades": 855,
+      "source_and_data_verified": true,
+      "public_config_checked": true,
+      "equity_reconciled": true,
+      "valuation_gap_pairs": []
+    },
+    {
+      "period": "year-2025",
+      "version": "V14",
+      "result_sha256": "e6e1d2ede45c19a4bb40232a2c1682d850d0c6c6a2c6182f9446eaf7fdbee945",
+      "reused": false,
+      "trades": 858,
+      "source_and_data_verified": true,
+      "public_config_checked": true,
+      "equity_reconciled": true,
+      "valuation_gap_pairs": []
+    },
+    {
+      "period": "year-2025",
+      "version": "V15",
+      "result_sha256": "dfe4dfd4ccb3ff5680aab196d85ade56dfba6e481c8862e8aa236b319092a343",
+      "reused": false,
+      "trades": 855,
+      "source_and_data_verified": true,
+      "public_config_checked": true,
+      "equity_reconciled": true,
+      "valuation_gap_pairs": []
+    },
+    {
+      "period": "year-2025",
+      "version": "V16",
+      "result_sha256": "ffdf8d1a3cd61e6ffa33dc388806dda57c37e0a88432c85387ecdb5de11d8df7",
+      "reused": false,
+      "trades": 1112,
+      "source_and_data_verified": true,
+      "public_config_checked": true,
+      "equity_reconciled": true,
+      "valuation_gap_pairs": []
+    },
+    {
+      "period": "year-2025",
+      "version": "V17",
+      "result_sha256": "5bda6288502f31f3624e027ba976a9d4b0da1d06467c7260ebc11781324be686",
+      "reused": false,
+      "trades": 855,
+      "source_and_data_verified": true,
+      "public_config_checked": true,
+      "equity_reconciled": true,
+      "valuation_gap_pairs": []
+    }
+  ]
+}

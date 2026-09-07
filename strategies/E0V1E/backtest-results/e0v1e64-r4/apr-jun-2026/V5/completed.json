@@ -1,0 +1,32 @@
+{
+  "version": "V5",
+  "reused": true,
+  "provenance": "validation/e0v1e64-r3/apr-jun-2026/V5",
+  "result_sha256": "f278a05e7bdafd3bdccea2409558b4c86872cf141865ed487e0e10d90bfbacb7",
+  "inputs": {
+    "my-strategies/E0V1E64_R4/E0V1E64_V14.py": "c18954816d614951c7fe924cb4991733d71b084924950c6ca986e5c400f4d1a8",
+    "my-strategies/E0V1E64_R4/E0V1E64_V15.py": "e66e891846e6460dd92f17d2435ca9ef42438d1d97f783c858155552eeaee427",
+    "my-strategies/E0V1E64_R4/E0V1E64_V16.py": "c9ccb56e63a3d04bd8fde84e972cb13428c1ff6efee11772a11d0baebe5908eb",
+    "my-strategies/E0V1E64_R4/E0V1E64_V17.py": "5b0f9a67d60a21f3ce73e16532e229136c82497f37ec47e8bb6413ae49dca8df",
+    "my-strategies/E0V1E64_R4/E0V1E64_V5.py": "d77835259bab9cc44ff9d0143b7f322ecd575638b61f34b0c40378c2940fff16",
+    "my-strategies/E0V1E64_R4/E0V1E_v3.py": "a293d5c61d580c6753e1445679ccda606b7cc2c555443a76d12a42bd188ae547",
+    "my-strategies/E0V1E64_R4/E0V1E_v3_equity60_reserve40.py": "95d4504bde94c391df77d4393307627111d9f9af32146f8e70379cdf031d19f3",
+    "my-strategies/E0V1E64_R4/r4_common.py": "6e297b209c16a94a075fab24acda3d44cf93559964e06b2d21a6d91f6498818e",
+    "my-strategies/E0V1E64_R4/research_common.py": "8f15c62ce138f1339ae1672d1f5c0eb5d1d9137caaefba6b36fc883e75951592",
+    "my-strategies/E0V1E64_R4/E0V1E64_V14.json": "993cc55000ac7a1dd6b4df055b076645e85810d05c90e73d9962c3d25edfece0",
+    "my-strategies/E0V1E64_R4/E0V1E64_V15.json": "23329f8e707e1e7363844053893e87aea5fce1c7bd93e260e2f9c38e4e32a0aa",
+    "my-strategies/E0V1E64_R4/E0V1E64_V16.json": "bb8decf890f19399458ae64294a9a075632f3cfc6a82be9711951362a53a1d23",
+    "my-strategies/E0V1E64_R4/E0V1E64_V17.json": "0f237129564a8fc966eecbe55bce30f287a8c9123447a5f67b43f292a3c40424",
+    "my-strategies/E0V1E64_R4/E0V1E64_V5.json": "a7e2d32157995d8a7d62e51e6921a91914a2bf5528b65156ca1281705fe0b762",
+    "my-strategies/E0V1E64_R4/E0V1E_v3_equity60_reserve40.json": "a94def921cb509349030455451356d15c7d23495de14feb651b6378dc5be1c7d",
+    "validation/e0v1e64-r4/README.md": "d630e07554eb8826736661fec4ceabc515316c16a8ffe497607db33e610fda40",
+    "validation/e0v1e64-r4/ENVIRONMENT.md": "ab8f3f5b1ab973a509c85c60d5c19e61be4148b6d5b6a09bc765dee3263f5330",
+    "validation/e0v1e64-r4/config.backtest.json": "aa94cc4b70ae069bbbd2f8b99124adfe802b29350be0bfa73215cbfbcd35d0e7",
+    "validation/e0v1e64-r4/run_suite.py": "48247ca8ea52f520a17d1000bfcb5e760db6a36cc918390dee5edc4c19bfc5bc",
+    "validation/e0v1e64-r4/test_variants.py": "c1c3a1ede9c7e299a4adc2f5771b7204f45758092f8fc609e6f3d40b44728522",
+    "validation/e0v1e64-r4/summarize.py": "e34ef10d81da1504b5d9582c00956b5f0a7961ed66410dcd2614296a7c9caddc",
+    "validation/e0v1e64-r4/test_reports.py": "7b91b7b970ea1c9a99f709776f1b6e056a76883431e5252af27eaa071bf27b08",
+    "run_backtest.py": "d3e130fc59874feea9df99d73baf2b25e7d15b50cd2c20d909be838e8e74b1cc",
+    "fix_dns.py": "aa0ccdd54d61629048daa32c12e3e852882feaa3c5141e9f0a86090ab64f2b36"
+  }
+}
