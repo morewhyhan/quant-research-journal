@@ -1,0 +1,3653 @@
+{
+  "apr-jun-2026": {
+    "V5": {
+      "days": 90,
+      "mean_daily_return_pct": 1.7434835683231102,
+      "mean_daily_log_return_pct": 1.5912601350737359,
+      "daily_variance_decimal": 0.0028804934471450988,
+      "daily_variance_pp2": 28.804934471450988,
+      "daily_std_pct": 5.367022868541831,
+      "downside_deviation_zero_pct": 2.76406686951592,
+      "worst_5pct_days_mean_return_pct": -10.022283059330299,
+      "worst_day_pct": -13.605265485051232,
+      "negative_days": 27,
+      "lag1_autocorrelation": 0.06127657842151302,
+      "monthly_returns_pct": {
+        "2026-04": 87.09871865062495,
+        "2026-05": 27.148095189710396,
+        "2026-06": 76.0302374199188
+      },
+      "quarterly_returns_pct": {
+        "2026Q2": 318.762656665125
+      },
+      "monthly_variance_pp2": 1017.6753931868627,
+      "positive_months": 3,
+      "versus_v5": {
+        "block_days": 7,
+        "draws": 2000,
+        "seed": 20260907,
+        "daily_log_excess_pct": 0.0,
+        "bootstrap_95pct_interval_pp": [
+          0.0,
+          0.0
+        ],
+        "interpretation": "descriptive paired block bootstrap on seen data, not a future guarantee or multiple-testing correction"
+      },
+      "trades": {
+        "trades": 255,
+        "ev_pct": 0.9084877781720507,
+        "trade_variance_pp2": 14.857503269681875,
+        "pf": 1.9256749553095283,
+        "equal_stake_pf": 2.119473949839265,
+        "total_pnl": 25501.01253321,
+        "gross_loss": 27548.56052542,
+        "win_rate_pct": 82.35294117647058
+      },
+      "long": {
+        "trades": 57,
+        "ev_pct": 1.4303431447170933,
+        "trade_variance_pp2": 16.122075773730863,
+        "pf": 2.891461213331428,
+        "equal_stake_pf": 2.6788019500189826,
+        "total_pnl": 8944.23941015,
+        "gross_loss": 4728.74587494,
+        "win_rate_pct": 75.43859649122807
+      },
+      "short": {
+        "trades": 198,
+        "ev_pct": 0.7582566878030237,
+        "trade_variance_pp2": 14.471968870476477,
+        "pf": 1.725543716136701,
+        "equal_stake_pf": 1.9479629046160527,
+        "total_pnl": 16556.77312306,
+        "gross_loss": 22819.814650480002,
+        "win_rate_pct": 84.34343434343434
+      },
+      "matched": {
+        "matched": 255,
+        "changed_exits": 0,
+        "winners_to_losses": 0,
+        "improved_exits": 0,
+        "changed_baseline": {
+          "trades": 0
+        },
+        "changed_candidate": {
+          "trades": 0
+        },
+        "changed_mean_delta_pp": 0,
+        "new": {
+          "trades": 0
+        },
+        "missing": {
+          "trades": 0
+        },
+        "cases": []
+      }
+    },
+    "V14": {
+      "days": 90,
+      "mean_daily_return_pct": 1.5737535727630998,
+      "mean_daily_log_return_pct": 1.4440971244248697,
+      "daily_variance_decimal": 0.002472220861140017,
+      "daily_variance_pp2": 24.722208611400173,
+      "daily_std_pct": 4.972143261351202,
+      "downside_deviation_zero_pct": 2.466729514154984,
+      "worst_5pct_days_mean_return_pct": -8.591612169060152,
+      "worst_day_pct": -13.605265581250203,
+      "negative_days": 32,
+      "lag1_autocorrelation": 0.027205286871600308,
+      "monthly_returns_pct": {
+        "2026-04": 86.74708910750002,
+        "2026-05": 27.148098620865735,
+        "2026-06": 54.48394811346979
+      },
+      "quarterly_returns_pct": {
+        "2026Q2": 266.81498686950005
+      },
+      "monthly_variance_pp2": 890.0331002181498,
+      "positive_months": 3,
+      "versus_v5": {
+        "block_days": 7,
+        "draws": 2000,
+        "seed": 20260907,
+        "daily_log_excess_pct": -0.14716301064886644,
+        "bootstrap_95pct_interval_pp": [
+          -0.5797770751621494,
+          0.13222694547767716
+        ],
+        "interpretation": "descriptive paired block bootstrap on seen data, not a future guarantee or multiple-testing correction"
+      },
+      "trades": {
+        "trades": 225,
+        "ev_pct": 0.9350892011887204,
+        "trade_variance_pp2": 13.970841185509569,
+        "pf": 2.068860214430729,
+        "equal_stake_pf": 2.2274755582141688,
+        "total_pnl": 21345.19894956,
+        "gross_loss": 19970.05657183,
+        "win_rate_pct": 82.66666666666667
+      },
+      "long": {
+        "trades": 49,
+        "ev_pct": 1.4361658595930538,
+        "trade_variance_pp2": 16.328121613033804,
+        "pf": 2.782261433248407,
+        "equal_stake_pf": 2.6761766740911916,
+        "total_pnl": 6760.36008888,
+        "gross_loss": 3793.1360477,
+        "win_rate_pct": 75.51020408163265
+      },
+      "short": {
+        "trades": 176,
+        "ev_pct": 0.7955849042466048,
+        "trade_variance_pp2": 13.314231771805373,
+        "pf": 1.901583143647445,
+        "equal_stake_pf": 2.0819184672436446,
+        "total_pnl": 14584.83886068,
+        "gross_loss": 16176.92052413,
+        "win_rate_pct": 84.6590909090909
+      },
+      "matched": {
+        "matched": 200,
+        "changed_exits": 0,
+        "winners_to_losses": 0,
+        "improved_exits": 0,
+        "changed_baseline": {
+          "trades": 0
+        },
+        "changed_candidate": {
+          "trades": 0
+        },
+        "changed_mean_delta_pp": 0,
+        "new": {
+          "trades": 25,
+          "ev_pct": 0.7534549170695599,
+          "trade_variance_pp2": 12.600717149477292,
+          "pf": 1.8975436357965592,
+          "equal_stake_pf": 2.2012341754116385,
+          "total_pnl": 2231.20614229,
+          "gross_loss": 2485.90269409,
+          "win_rate_pct": 92.0
+        },
+        "missing": {
+          "trades": 55,
+          "ev_pct": 0.7291942926090905,
+          "trade_variance_pp2": 17.507930365345292,
+          "pf": 1.60312857814693,
+          "equal_stake_pf": 1.7830609924377994,
+          "total_pnl": 5667.435159810001,
+          "gross_loss": 9396.72793689,
+          "win_rate_pct": 85.45454545454545
+        },
+        "cases": []
+      }
+    },
+    "V16": {
+      "days": 90,
+      "mean_daily_return_pct": 1.2848894900234316,
+      "mean_daily_log_return_pct": 1.0390196388531296,
+      "daily_variance_decimal": 0.004889094777818744,
+      "daily_variance_pp2": 48.890947778187446,
+      "daily_std_pct": 6.992206216795056,
+      "downside_deviation_zero_pct": 4.295962454164767,
+      "worst_5pct_days_mean_return_pct": -14.683240750022048,
+      "worst_day_pct": -22.495241912585605,
+      "negative_days": 30,
+      "lag1_autocorrelation": 0.08528407272707941,
+      "monthly_returns_pct": {
+        "2026-04": 85.40704620512507,
+        "2026-05": -28.68524581202232,
+        "2026-06": 92.6685467125925
+      },
+      "quarterly_returns_pct": {
+        "2026Q2": 154.75132186375015
+      },
+      "monthly_variance_pp2": 4632.753907908875,
+      "positive_months": 2,
+      "versus_v5": {
+        "block_days": 7,
+        "draws": 2000,
+        "seed": 20260907,
+        "daily_log_excess_pct": -0.552240496220606,
+        "bootstrap_95pct_interval_pp": [
+          -1.524249433786744,
+          0.41894767881042255
+        ],
+        "interpretation": "descriptive paired block bootstrap on seen data, not a future guarantee or multiple-testing correction"
+      },
+      "trades": {
+        "trades": 327,
+        "ev_pct": 0.4688710722724279,
+        "trade_variance_pp2": 14.730506759837342,
+        "pf": 1.3296201629738253,
+        "equal_stake_pf": 1.4510202582563743,
+        "total_pnl": 12380.1057491,
+        "gross_loss": 37558.70283361,
+        "win_rate_pct": 77.37003058103976
+      },
+      "long": {
+        "trades": 72,
+        "ev_pct": 0.4037827893581618,
+        "trade_variance_pp2": 26.506133794325326,
+        "pf": 0.9768704522876398,
+        "equal_stake_pf": 1.2620240119049286,
+        "total_pnl": -294.93427305999967,
+        "gross_loss": 12751.406846680002,
+        "win_rate_pct": 65.27777777777779
+      },
+      "short": {
+        "trades": 255,
+        "ev_pct": 0.48724894038939726,
+        "trade_variance_pp2": 11.495348630635137,
+        "pf": 1.510940008489357,
+        "equal_stake_pf": 1.5425953521469076,
+        "total_pnl": 12675.04002216,
+        "gross_loss": 24807.29598693,
+        "win_rate_pct": 80.7843137254902
+      },
+      "matched": {
+        "matched": 247,
+        "changed_exits": 24,
+        "winners_to_losses": 12,
+        "improved_exits": 9,
+        "changed_baseline": {
+          "trades": 24,
+          "ev_pct": -4.977273064936414,
+          "trade_variance_pp2": 57.96354646408134,
+          "pf": 0.12283266661889879,
+          "equal_stake_pf": 0.15275372635337034,
+          "total_pnl": -16560.51161419,
+          "gross_loss": 18879.535276759998,
+          "win_rate_pct": 50.0
+        },
+        "changed_candidate": {
+          "trades": 24,
+          "ev_pct": -7.415092051307962,
+          "trade_variance_pp2": 3.026233645949539,
+          "pf": 0.0,
+          "equal_stake_pf": 0.0,
+          "total_pnl": -18739.13967464,
+          "gross_loss": 18739.13967464,
+          "win_rate_pct": 0.0
+        },
+        "changed_mean_delta_pp": -2.4378189863715467,
+        "new": {
+          "trades": 80,
+          "ev_pct": -0.4160139188644396,
+          "trade_variance_pp2": 20.16872803859357,
+          "pf": 0.635531091305207,
+          "equal_stake_pf": 0.7076143997383662,
+          "total_pnl": -5164.2111047299995,
+          "gross_loss": 14169.14030671,
+          "win_rate_pct": 73.75
+        },
+        "missing": {
+          "trades": 8,
+          "ev_pct": -1.680653297508519,
+          "trade_variance_pp2": 22.32933923728321,
+          "pf": 0.3394376100555222,
+          "equal_stake_pf": 0.2444347766544728,
+          "total_pnl": -1107.4840007000003,
+          "gross_loss": 1676.57744001,
+          "win_rate_pct": 50.0
+        },
+        "cases": [
+          {
+            "baseline": {
+              "pair": "CHIP/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-04-23 03:30:00+00:00",
+              "close_date": "2026-04-23 06:40:00+00:00",
+              "exit_reason": "fastk_profit_sell",
+              "profit_ratio": 0.021048921093626542,
+              "profit_abs": 226.09110375,
+              "stake_amount": 10735.85262102
+            },
+            "candidate": {
+              "pair": "CHIP/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-04-23 03:30:00+00:00",
+              "close_date": "2026-04-23 05:30:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.08300395342710247,
+              "profit_abs": -729.67692621,
+              "stake_amount": 8786.4763058
+            },
+            "profit_delta_pp": -10.405287452072901
+          },
+          {
+            "baseline": {
+              "pair": "PROVE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-21 09:35:00+00:00",
+              "close_date": "2026-05-21 19:25:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.04015223831729057,
+              "profit_abs": 602.26610155,
+              "stake_amount": 15007.0683602
+            },
+            "candidate": {
+              "pair": "PROVE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-21 09:35:00+00:00",
+              "close_date": "2026-05-21 11:40:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06230464376562525,
+              "profit_abs": -881.77250063,
+              "stake_amount": 14159.6766166
+            },
+            "profit_delta_pp": -10.24568820829158
+          },
+          {
+            "baseline": {
+              "pair": "BASED/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-05 15:00:00+00:00",
+              "close_date": "2026-04-06 09:20:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.03426678125891949,
+              "profit_abs": 199.56037491,
+              "stake_amount": 5826.6401943
+            },
+            "candidate": {
+              "pair": "BASED/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-05 15:00:00+00:00",
+              "close_date": "2026-04-05 19:25:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06815967953448872,
+              "profit_abs": -374.98350774,
+              "stake_amount": 5504.2966142
+            },
+            "profit_delta_pp": -10.24264607934082
+          },
+          {
+            "baseline": {
+              "pair": "ETHFI/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-06-03 05:05:00+00:00",
+              "close_date": "2026-06-04 02:00:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.04076435772345071,
+              "profit_abs": 518.32101264,
+              "stake_amount": 12721.4147788
+            },
+            "candidate": {
+              "pair": "ETHFI/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-06-03 05:05:00+00:00",
+              "close_date": "2026-06-03 08:30:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06155111555147275,
+              "profit_abs": -738.58716492,
+              "stake_amount": 12005.5767734
+            },
+            "profit_delta_pp": -10.231547327492347
+          },
+          {
+            "baseline": {
+              "pair": "ONT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-05 04:10:00+00:00",
+              "close_date": "2026-04-05 12:25:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.03160503170746709,
+              "profit_abs": 180.96225167,
+              "stake_amount": 5728.6061199
+            },
+            "candidate": {
+              "pair": "ONT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-05 04:10:00+00:00",
+              "close_date": "2026-04-05 06:40:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06239351559815186,
+              "profit_abs": -357.24916136,
+              "stake_amount": 5728.6061199
+            },
+            "profit_delta_pp": -9.399854730561895
+          },
+          {
+            "baseline": {
+              "pair": "PARTI/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-16 14:15:00+00:00",
+              "close_date": "2026-05-18 00:10:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.03251049412608036,
+              "profit_abs": 389.94060352,
+              "stake_amount": 12000.29965225
+            },
+            "candidate": {
+              "pair": "PARTI/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-16 14:15:00+00:00",
+              "close_date": "2026-05-16 17:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.061417119156583856,
+              "profit_abs": -839.73700041,
+              "stake_amount": 13679.5260098
+            },
+            "profit_delta_pp": -9.392761328266422
+          },
+          {
+            "baseline": {
+              "pair": "AI/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-05-14 18:10:00+00:00",
+              "close_date": "2026-05-15 06:10:00+00:00",
+              "exit_reason": "cci_loss_sell",
+              "profit_ratio": -0.03844342004792573,
+              "profit_abs": -461.42475095,
+              "stake_amount": 11996.6993909
+            },
+            "candidate": {
+              "pair": "AI/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-05-14 18:10:00+00:00",
+              "close_date": "2026-05-14 22:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.12769033993673223,
+              "profit_abs": -1463.36799226,
+              "stake_amount": 11454.56010727
+            },
+            "profit_delta_pp": -8.924691988880651
+          },
+          {
+            "baseline": {
+              "pair": "KITE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-23 09:10:00+00:00",
+              "close_date": "2026-05-30 06:40:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0024575322644278183,
+              "profit_abs": 34.0138579,
+              "stake_amount": 13847.579472
+            },
+            "candidate": {
+              "pair": "KITE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-23 09:10:00+00:00",
+              "close_date": "2026-05-23 11:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.08537203044840605,
+              "profit_abs": -1139.93434008,
+              "stake_amount": 13359.230024
+            },
+            "profit_delta_pp": -8.782956271283387
+          },
+          {
+            "baseline": {
+              "pair": "SPACE/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-05-20 10:40:00+00:00",
+              "close_date": "2026-05-20 18:00:00+00:00",
+              "exit_reason": "fastk_profit_sell",
+              "profit_ratio": 0.00777447128891989,
+              "profit_abs": 115.9487216,
+              "stake_amount": 14906.57974093
+            },
+            "candidate": {
+              "pair": "SPACE/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-05-20 10:40:00+00:00",
+              "close_date": "2026-05-20 16:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.0674066254052895,
+              "profit_abs": -1021.77481918,
+              "stake_amount": 15150.79832206
+            },
+            "profit_delta_pp": -7.518109669420939
+          },
+          {
+            "baseline": {
+              "pair": "CORE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-25 21:05:00+00:00",
+              "close_date": "2026-04-26 03:00:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0005040691300609483,
+              "profit_abs": 5.61135219,
+              "stake_amount": 11137.67722486
+            },
+            "candidate": {
+              "pair": "CORE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-25 21:05:00+00:00",
+              "close_date": "2026-04-26 00:35:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0740024929955075,
+              "profit_abs": -597.9326881,
+              "stake_amount": 8083.94122666
+            },
+            "profit_delta_pp": -7.4506562125568445
+          },
+          {
+            "baseline": {
+              "pair": "CHIP/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-23 20:20:00+00:00",
+              "close_date": "2026-04-24 02:10:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0026618726777672243,
+              "profit_abs": 27.33415494,
+              "stake_amount": 10273.9056916
+            },
+            "candidate": {
+              "pair": "CHIP/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-23 20:20:00+00:00",
+              "close_date": "2026-04-23 22:35:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06991180444902528,
+              "profit_abs": -508.29274369,
+              "stake_amount": 7274.12232035
+            },
+            "profit_delta_pp": -7.257367712679251
+          },
+          {
+            "baseline": {
+              "pair": "EDGE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-09 15:55:00+00:00",
+              "close_date": "2026-04-12 03:25:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 8.058486398186659e-05,
+              "profit_abs": 0.48394645,
+              "stake_amount": 6008.430372
+            },
+            "candidate": {
+              "pair": "EDGE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-09 15:55:00+00:00",
+              "close_date": "2026-04-10 08:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06839434220861887,
+              "profit_abs": -446.72338711,
+              "stake_amount": 6534.851365
+            },
+            "profit_delta_pp": -6.8474927072600735
+          },
+          {
+            "baseline": {
+              "pair": "SAHARA/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-13 10:00:00+00:00",
+              "close_date": "2026-05-14 07:05:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0015434707512244185,
+              "profit_abs": 18.49018145,
+              "stake_amount": 11985.60526716
+            },
+            "candidate": {
+              "pair": "SAHARA/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-13 10:00:00+00:00",
+              "close_date": "2026-05-13 12:50:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06517418393172822,
+              "profit_abs": -773.70212515,
+              "stake_amount": 11877.23609314
+            },
+            "profit_delta_pp": -6.671765468295264
+          },
+          {
+            "baseline": {
+              "pair": "PNUT/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-04-17 05:10:00+00:00",
+              "close_date": "2026-04-17 13:00:00+00:00",
+              "exit_reason": "cci_loss_sell",
+              "profit_ratio": -0.04547397519040832,
+              "profit_abs": -358.49130512,
+              "stake_amount": 7879.49915408
+            },
+            "candidate": {
+              "pair": "PNUT/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-04-17 05:10:00+00:00",
+              "close_date": "2026-04-17 08:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.07048273115229868,
+              "profit_abs": -488.6883489,
+              "stake_amount": 6929.98297386
+            },
+            "profit_delta_pp": -2.500875596189036
+          },
+          {
+            "baseline": {
+              "pair": "NES/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-06-29 15:30:00+00:00",
+              "close_date": "2026-06-30 00:00:00+00:00",
+              "exit_reason": "force_exit",
+              "profit_ratio": -0.0614591113303938,
+              "profit_abs": -1281.9984407,
+              "stake_amount": 20869.8064911
+            },
+            "candidate": {
+              "pair": "NES/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-06-29 15:30:00+00:00",
+              "close_date": "2026-06-29 19:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.061565303266952365,
+              "profit_abs": -786.66413506,
+              "stake_amount": 12784.1108892
+            },
+            "profit_delta_pp": -0.010619193655856535
+          },
+          {
+            "baseline": {
+              "pair": "ALLO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-06-15 10:15:00+00:00",
+              "close_date": "2026-06-15 12:35:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1490845375491006,
+              "profit_abs": -2714.84267961,
+              "stake_amount": 18219.19848063
+            },
+            "candidate": {
+              "pair": "ALLO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-06-15 10:15:00+00:00",
+              "close_date": "2026-06-15 12:15:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.11545309394025559,
+              "profit_abs": -1405.43151682,
+              "stake_amount": 12179.27156495
+            },
+            "profit_delta_pp": 3.3631443608844998
+          },
+          {
+            "baseline": {
+              "pair": "API3/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-04-25 08:20:00+00:00",
+              "close_date": "2026-04-25 17:55:00+00:00",
+              "exit_reason": "ma120_sell_fast",
+              "profit_ratio": -0.12272366169147989,
+              "profit_abs": -1031.13975092,
+              "stake_amount": 8397.927706
+            },
+            "candidate": {
+              "pair": "API3/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-04-25 08:20:00+00:00",
+              "close_date": "2026-04-25 11:25:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.07305855269091655,
+              "profit_abs": -598.00273892,
+              "stake_amount": 8181.162437
+            },
+            "profit_delta_pp": 4.966510900056334
+          },
+          {
+            "baseline": {
+              "pair": "SPACE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-18 10:00:00+00:00",
+              "close_date": "2026-05-18 21:35:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14790940076908868,
+              "profit_abs": -1849.15538215,
+              "stake_amount": 12508.20037632
+            },
+            "candidate": {
+              "pair": "SPACE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-18 10:00:00+00:00",
+              "close_date": "2026-05-18 12:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.09428507726675388,
+              "profit_abs": -1295.66888069,
+              "stake_amount": 13748.90997376
+            },
+            "profit_delta_pp": 5.36243235023348
+          },
+          {
+            "baseline": {
+              "pair": "MMT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-06-24 06:25:00+00:00",
+              "close_date": "2026-06-24 10:45:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.15082461606081782,
+              "profit_abs": -3001.04751061,
+              "stake_amount": 19907.551323
+            },
+            "candidate": {
+              "pair": "MMT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-06-24 06:25:00+00:00",
+              "close_date": "2026-06-24 08:45:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.08775579841451138,
+              "profit_abs": -1017.78658431,
+              "stake_amount": 11603.743007
+            },
+            "profit_delta_pp": 6.306881764630644
+          },
+          {
+            "baseline": {
+              "pair": "MERL/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-04-20 12:10:00+00:00",
+              "close_date": "2026-04-21 11:10:00+00:00",
+              "exit_reason": "ma120_sell_fast",
+              "profit_ratio": -0.12914792843021677,
+              "profit_abs": -1256.60295561,
+              "stake_amount": 9725.08799322
+            },
+            "candidate": {
+              "pair": "MERL/USDT:USDT",
+              "is_short": false,
+              "open_date": "2026-04-20 12:10:00+00:00",
+              "close_date": "2026-04-20 14:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.06268404630243925,
+              "profit_abs": -462.65195933,
+              "stake_amount": 7377.00860478
+            },
+            "profit_delta_pp": 6.646388212777753
+          },
+          {
+            "baseline": {
+              "pair": "EDGE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-19 11:05:00+00:00",
+              "close_date": "2026-04-20 09:15:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1424858930271148,
+              "profit_abs": -1234.98563337,
+              "stake_amount": 8671.759771
+            },
+            "candidate": {
+              "pair": "EDGE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-19 11:05:00+00:00",
+              "close_date": "2026-04-19 20:15:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07280597452587717,
+              "profit_abs": -551.11708062,
+              "stake_amount": 7573.4550715
+            },
+            "profit_delta_pp": 6.967991850123764
+          },
+          {
+            "baseline": {
+              "pair": "SPACE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-19 16:35:00+00:00",
+              "close_date": "2026-05-20 07:20:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.13427367529932732,
+              "profit_abs": -1877.56923238,
+              "stake_amount": 13990.14723054
+            },
+            "candidate": {
+              "pair": "SPACE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-05-19 16:35:00+00:00",
+              "close_date": "2026-05-20 01:05:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06158065829699483,
+              "profit_abs": -939.3073395,
+              "stake_amount": 15260.91558784
+            },
+            "profit_delta_pp": 7.26930170023325
+          },
+          {
+            "baseline": {
+              "pair": "MERL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-22 00:10:00+00:00",
+              "close_date": "2026-04-22 15:50:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14251848879418996,
+              "profit_abs": -1495.73356797,
+              "stake_amount": 10500.26436244
+            },
+            "candidate": {
+              "pair": "MERL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-04-22 00:10:00+00:00",
+              "close_date": "2026-04-22 07:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06207332956456405,
+              "profit_abs": -448.96995066,
+              "stake_amount": 7236.51447546
+            },
+            "profit_delta_pp": 8.044515922962592
+          },
+          {
+            "baseline": {
+              "pair": "ACT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-06-06 07:10:00+00:00",
+              "close_date": "2026-06-13 13:55:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14557065259789279,
+              "profit_abs": -2316.54406737,
+              "stake_amount": 15921.498444
+            },
+            "candidate": {
+              "pair": "ACT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2026-06-06 07:10:00+00:00",
+              "close_date": "2026-06-07 01:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06109568048361445,
+              "profit_abs": -871.11678299,
+              "stake_amount": 14265.3711747
+            },
+            "profit_delta_pp": 8.447497211427834
+          }
+        ]
+      }
+    },
+    "V17": {
+      "days": 90,
+      "mean_daily_return_pct": 1.6036296560044123,
+      "mean_daily_log_return_pct": 1.477245639310407,
+      "daily_variance_decimal": 0.0023969264348525946,
+      "daily_variance_pp2": 23.969264348525947,
+      "daily_std_pct": 4.895841536296487,
+      "downside_deviation_zero_pct": 2.4043952143944924,
+      "worst_5pct_days_mean_return_pct": -8.271867997531354,
+      "worst_day_pct": -12.4726488084271,
+      "negative_days": 27,
+      "lag1_autocorrelation": 0.055844522117241446,
+      "monthly_returns_pct": {
+        "2026-04": 77.75816089662506,
+        "2026-05": 25.79803006487218,
+        "2026-06": 69.00528195646514
+      },
+      "quarterly_returns_pct": {
+        "2026Q2": 277.923298635625
+      },
+      "monthly_variance_pp2": 773.889116969589,
+      "positive_months": 3,
+      "versus_v5": {
+        "block_days": 7,
+        "draws": 2000,
+        "seed": 20260907,
+        "daily_log_excess_pct": -0.11401449576332917,
+        "bootstrap_95pct_interval_pp": [
+          -0.2655283453016354,
+          0.01577002825841316
+        ],
+        "interpretation": "descriptive paired block bootstrap on seen data, not a future guarantee or multiple-testing correction"
+      },
+      "trades": {
+        "trades": 255,
+        "ev_pct": 0.9084877781743543,
+        "trade_variance_pp2": 14.85750326970201,
+        "pf": 1.9530553882774557,
+        "equal_stake_pf": 2.1194739498407387,
+        "total_pnl": 22233.86389085,
+        "gross_loss": 23329.0364488,
+        "win_rate_pct": 82.35294117647058
+      },
+      "long": {
+        "trades": 57,
+        "ev_pct": 1.4303431447138146,
+        "trade_variance_pp2": 16.122075773766916,
+        "pf": 2.7277356809481725,
+        "equal_stake_pf": 2.678801950010564,
+        "total_pnl": 7401.81785889,
+        "gross_loss": 4284.11471761,
+        "win_rate_pct": 75.43859649122807
+      },
+      "short": {
+        "trades": 198,
+        "ev_pct": 0.7582566878069339,
+        "trade_variance_pp2": 14.471968870494356,
+        "pf": 1.7787927008211037,
+        "equal_stake_pf": 1.9479629046202214,
+        "total_pnl": 14832.04603196,
+        "gross_loss": 19044.921731190003,
+        "win_rate_pct": 84.34343434343434
+      },
+      "matched": {
+        "matched": 255,
+        "changed_exits": 0,
+        "winners_to_losses": 0,
+        "improved_exits": 0,
+        "changed_baseline": {
+          "trades": 0
+        },
+        "changed_candidate": {
+          "trades": 0
+        },
+        "changed_mean_delta_pp": 0,
+        "new": {
+          "trades": 0
+        },
+        "missing": {
+          "trades": 0
+        },
+        "cases": []
+      }
+    },
+    "correlation": {
+      "V5": {
+        "V5": 1.0,
+        "V14": 0.9211895612967065,
+        "V16": 0.7733411897947287,
+        "V17": 0.9896372611576366
+      },
+      "V14": {
+        "V5": 0.9211895612967065,
+        "V14": 1.0,
+        "V16": 0.6631379837236367,
+        "V17": 0.916714591082898
+      },
+      "V16": {
+        "V5": 0.7733411897947287,
+        "V14": 0.6631379837236367,
+        "V16": 1.0,
+        "V17": 0.7806981551243927
+      },
+      "V17": {
+        "V5": 0.9896372611576366,
+        "V14": 0.916714591082898,
+        "V16": 0.7806981551243927,
+        "V17": 1.0
+      }
+    },
+    "covariance_pp2": {
+      "V5": {
+        "V5": 28.804934471450988,
+        "V14": 24.582502226968842,
+        "V16": 29.021430547914886,
+        "V17": 26.003801191466646
+      },
+      "V14": {
+        "V5": 24.582502226968842,
+        "V14": 24.722208611400177,
+        "V16": 23.054821604899704,
+        "V17": 22.31542332709657
+      },
+      "V16": {
+        "V5": 29.021430547914886,
+        "V14": 23.054821604899704,
+        "V16": 48.89094777818745,
+        "V17": 26.725431987101217
+      },
+      "V17": {
+        "V5": 26.003801191466646,
+        "V14": 22.31542332709657,
+        "V16": 26.725431987101217,
+        "V17": 23.969264348525947
+      }
+    }
+  },
+  "year-2025": {
+    "V5": {
+      "days": 365,
+      "mean_daily_return_pct": 0.8748073059764259,
+      "mean_daily_log_return_pct": 0.7682976011445066,
+      "daily_variance_decimal": 0.0020904194108010087,
+      "daily_variance_pp2": 20.90419410801009,
+      "daily_std_pct": 4.572110465420765,
+      "downside_deviation_zero_pct": 2.8063142201744657,
+      "worst_5pct_days_mean_return_pct": -9.735071461861596,
+      "worst_day_pct": -14.71314833573204,
+      "negative_days": 126,
+      "lag1_autocorrelation": 0.05940108277419387,
+      "monthly_returns_pct": {
+        "2025-01": 4.635317036500042,
+        "2025-02": 3.4985863661862515,
+        "2025-03": 39.05589288702116,
+        "2025-04": 48.08525702062716,
+        "2025-05": 40.41239376240158,
+        "2025-06": 8.137175401504715,
+        "2025-07": 33.84891766836291,
+        "2025-08": 38.37232034970215,
+        "2025-09": -10.576114900634082,
+        "2025-10": 15.98911060518664,
+        "2025-11": 95.96551253323995,
+        "2025-12": 29.561854326451108
+      },
+      "quarterly_returns_pct": {
+        "2025Q1": 50.59207262412506,
+        "2025Q2": 124.84968741390338,
+        "2025Q3": 65.6218462652226,
+        "2025Q4": 194.49235238099197
+      },
+      "monthly_variance_pp2": 782.394770975399,
+      "positive_months": 11,
+      "versus_v5": {
+        "block_days": 7,
+        "draws": 2000,
+        "seed": 20260907,
+        "daily_log_excess_pct": 0.0,
+        "bootstrap_95pct_interval_pp": [
+          0.0,
+          0.0
+        ],
+        "interpretation": "descriptive paired block bootstrap on seen data, not a future guarantee or multiple-testing correction"
+      },
+      "trades": {
+        "trades": 855,
+        "ev_pct": 0.4838318410988171,
+        "trade_variance_pp2": 19.710775293550935,
+        "pf": 1.5604917664137747,
+        "equal_stake_pf": 1.4563341202579743,
+        "total_pnl": 124122.27054592999,
+        "gross_loss": 221452.44227245,
+        "win_rate_pct": 84.09356725146199
+      },
+      "long": {
+        "trades": 172,
+        "ev_pct": 0.41666970738092707,
+        "trade_variance_pp2": 25.748555739519514,
+        "pf": 1.6260526394248505,
+        "equal_stake_pf": 1.3290723703516585,
+        "total_pnl": 32359.75925935,
+        "gross_loss": 51688.55974967,
+        "win_rate_pct": 68.6046511627907
+      },
+      "short": {
+        "trades": 683,
+        "ev_pct": 0.5007452920497353,
+        "trade_variance_pp2": 18.22438099352075,
+        "pf": 1.5405302348352377,
+        "equal_stake_pf": 1.4965756707071811,
+        "total_pnl": 91762.51128657999,
+        "gross_loss": 169763.88252278,
+        "win_rate_pct": 87.99414348462665
+      },
+      "matched": {
+        "matched": 855,
+        "changed_exits": 0,
+        "winners_to_losses": 0,
+        "improved_exits": 0,
+        "changed_baseline": {
+          "trades": 0
+        },
+        "changed_candidate": {
+          "trades": 0
+        },
+        "changed_mean_delta_pp": 0,
+        "new": {
+          "trades": 0
+        },
+        "missing": {
+          "trades": 0
+        },
+        "cases": []
+      }
+    },
+    "V14": {
+      "days": 365,
+      "mean_daily_return_pct": 0.9529216211114944,
+      "mean_daily_log_return_pct": 0.8332238652114491,
+      "daily_variance_decimal": 0.0023611901414992598,
+      "daily_variance_pp2": 23.611901414992598,
+      "daily_std_pct": 4.8592078999557735,
+      "downside_deviation_zero_pct": 2.9246644981040406,
+      "worst_5pct_days_mean_return_pct": -10.416584353346932,
+      "worst_day_pct": -14.713148345445425,
+      "negative_days": 124,
+      "lag1_autocorrelation": 0.022162952932858845,
+      "monthly_returns_pct": {
+        "2025-01": 6.341976283625028,
+        "2025-02": 17.410253991088865,
+        "2025-03": 23.73858817526635,
+        "2025-04": 62.7628765297096,
+        "2025-05": 34.68236473345998,
+        "2025-06": 9.6248327832132,
+        "2025-07": 37.83162806501925,
+        "2025-08": 34.6845822255085,
+        "2025-09": -10.576114962615934,
+        "2025-10": 29.52418659820242,
+        "2025-11": 100.41815159250262,
+        "2025-12": 30.829700959191374
+      },
+      "quarterly_returns_pct": {
+        "2025Q1": 54.49552736975021,
+        "2025Q2": 140.3117652181845,
+        "2025Q3": 66.00466917032313,
+        "2025Q4": 239.62079539832303
+      },
+      "monthly_variance_pp2": 812.0323358327696,
+      "positive_months": 11,
+      "versus_v5": {
+        "block_days": 7,
+        "draws": 2000,
+        "seed": 20260907,
+        "daily_log_excess_pct": 0.06492626406694242,
+        "bootstrap_95pct_interval_pp": [
+          -0.12408943865317854,
+          0.262018660903994
+        ],
+        "interpretation": "descriptive paired block bootstrap on seen data, not a future guarantee or multiple-testing correction"
+      },
+      "trades": {
+        "trades": 858,
+        "ev_pct": 0.5442044408623524,
+        "trade_variance_pp2": 19.44876405923833,
+        "pf": 1.612390464256507,
+        "equal_stake_pf": 1.528495520689821,
+        "total_pnl": 159453.99380738998,
+        "gross_loss": 260379.61580767,
+        "win_rate_pct": 85.43123543123544
+      },
+      "long": {
+        "trades": 157,
+        "ev_pct": 0.5365220306910226,
+        "trade_variance_pp2": 28.231565177843343,
+        "pf": 1.5642110474113569,
+        "equal_stake_pf": 1.4043458384836738,
+        "total_pnl": 36021.63738618999,
+        "gross_loss": 63844.26102867001,
+        "win_rate_pct": 73.88535031847134
+      },
+      "short": {
+        "trades": 701,
+        "ev_pct": 0.5459250377195546,
+        "trade_variance_pp2": 17.51922184242266,
+        "pf": 1.6280414867848951,
+        "equal_stake_pf": 1.566800860252081,
+        "total_pnl": 123432.3564212,
+        "gross_loss": 196535.35477900002,
+        "win_rate_pct": 88.01711840228246
+      },
+      "matched": {
+        "matched": 764,
+        "changed_exits": 0,
+        "winners_to_losses": 0,
+        "improved_exits": 0,
+        "changed_baseline": {
+          "trades": 0
+        },
+        "changed_candidate": {
+          "trades": 0
+        },
+        "changed_mean_delta_pp": 0,
+        "new": {
+          "trades": 94,
+          "ev_pct": 0.30651569311585247,
+          "trade_variance_pp2": 22.860789764962817,
+          "pf": 1.1546410414289945,
+          "equal_stake_pf": 1.2526434324076283,
+          "total_pnl": 4415.92986274,
+          "gross_loss": 28556.001834529998,
+          "win_rate_pct": 85.1063829787234
+        },
+        "missing": {
+          "trades": 91,
+          "ev_pct": -0.2685572633774833,
+          "trade_variance_pp2": 24.88643101594349,
+          "pf": 0.8439187849514281,
+          "equal_stake_pf": 0.8216952192304253,
+          "total_pnl": -4137.34719952,
+          "gross_loss": 26507.656275179997,
+          "win_rate_pct": 72.52747252747253
+        },
+        "cases": []
+      }
+    },
+    "V16": {
+      "days": 365,
+      "mean_daily_return_pct": 0.9218861185208918,
+      "mean_daily_log_return_pct": 0.8035889175337448,
+      "daily_variance_decimal": 0.00232257128525782,
+      "daily_variance_pp2": 23.225712852578198,
+      "daily_std_pct": 4.819306262583671,
+      "downside_deviation_zero_pct": 2.9918018429448305,
+      "worst_5pct_days_mean_return_pct": -10.554108019435638,
+      "worst_day_pct": -17.585953024571477,
+      "negative_days": 123,
+      "lag1_autocorrelation": 0.03131764923586686,
+      "monthly_returns_pct": {
+        "2025-01": 3.372016855124982,
+        "2025-02": 38.15430847836314,
+        "2025-03": 42.96814242369757,
+        "2025-04": 36.091347889216465,
+        "2025-05": 62.808412624677246,
+        "2025-06": -11.376492509086322,
+        "2025-07": 70.92559075863325,
+        "2025-08": 17.942448374892827,
+        "2025-09": -14.32639904021553,
+        "2025-10": 50.43244465950829,
+        "2025-11": 42.84497681147419,
+        "2025-12": 26.251115412718207
+      },
+      "quarterly_returns_pct": {
+        "2025Q1": 104.1769431892499,
+        "2025Q2": 96.36147772694916,
+        "2025Q3": 72.71269059509746,
+        "2025Q4": 171.2949501038922
+      },
+      "monthly_variance_pp2": 740.7079569429857,
+      "positive_months": 10,
+      "versus_v5": {
+        "block_days": 7,
+        "draws": 2000,
+        "seed": 20260907,
+        "daily_log_excess_pct": 0.03529131638923821,
+        "bootstrap_95pct_interval_pp": [
+          -0.3399827787549275,
+          0.47661263238554397
+        ],
+        "interpretation": "descriptive paired block bootstrap on seen data, not a future guarantee or multiple-testing correction"
+      },
+      "trades": {
+        "trades": 1112,
+        "ev_pct": 0.42449241436149826,
+        "trade_variance_pp2": 14.36707812161007,
+        "pf": 1.3109033881998506,
+        "equal_stake_pf": 1.3976149917139864,
+        "total_pnl": 142286.14206493998,
+        "gross_loss": 457653.88048289,
+        "win_rate_pct": 79.67625899280576
+      },
+      "long": {
+        "trades": 218,
+        "ev_pct": 0.122670120707864,
+        "trade_variance_pp2": 23.942929501595877,
+        "pf": 1.2617789422922625,
+        "equal_stake_pf": 1.0829317643301406,
+        "total_pnl": 30700.066836910006,
+        "gross_loss": 117274.77606902001,
+        "win_rate_pct": 66.5137614678899
+      },
+      "short": {
+        "trades": 894,
+        "ev_pct": 0.4980911392121608,
+        "trade_variance_pp2": 12.028562616900674,
+        "pf": 1.3278288055319385,
+        "equal_stake_pf": 1.514963680866661,
+        "total_pnl": 111586.07522803001,
+        "gross_loss": 340379.10441387,
+        "win_rate_pct": 82.88590604026845
+      },
+      "matched": {
+        "matched": 811,
+        "changed_exits": 95,
+        "winners_to_losses": 42,
+        "improved_exits": 41,
+        "changed_baseline": {
+          "trades": 95,
+          "ev_pct": -6.103946494608234,
+          "trade_variance_pp2": 55.58038584499979,
+          "pf": 0.08441845217164286,
+          "equal_stake_pf": 0.07139542877747551,
+          "total_pnl": -130319.2464511,
+          "gross_loss": 142334.94193958002,
+          "win_rate_pct": 44.21052631578947
+        },
+        "changed_candidate": {
+          "trades": 95,
+          "ev_pct": -7.068999808490588,
+          "trade_variance_pp2": 2.6487644550634566,
+          "pf": 0.0,
+          "equal_stake_pf": 0.0,
+          "total_pnl": -224032.32630507997,
+          "gross_loss": 224032.32630507997,
+          "win_rate_pct": 0.0
+        },
+        "changed_mean_delta_pp": -0.9650533138823539,
+        "new": {
+          "trades": 301,
+          "ev_pct": 0.43641417094183965,
+          "trade_variance_pp2": 14.252944946483852,
+          "pf": 0.9494581049101484,
+          "equal_stake_pf": 1.432805024100808,
+          "total_pnl": -8764.645585759994,
+          "gross_loss": 173413.47351892,
+          "win_rate_pct": 81.72757475083057
+        },
+        "missing": {
+          "trades": 44,
+          "ev_pct": -0.4245168180775771,
+          "trade_variance_pp2": 33.2176367682695,
+          "pf": 0.3945753626439613,
+          "equal_stake_pf": 0.7330070445123287,
+          "total_pnl": -21760.770696099997,
+          "gross_loss": 35942.98836455,
+          "win_rate_pct": 84.0909090909091
+        },
+        "cases": [
+          {
+            "baseline": {
+              "pair": "BIO/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-08-24 14:45:00+00:00",
+              "close_date": "2025-08-24 17:40:00+00:00",
+              "exit_reason": "cci_loss_sell",
+              "profit_ratio": -0.03929102498330082,
+              "profit_abs": -1107.32123511,
+              "stake_amount": 28168.4647233
+            },
+            "candidate": {
+              "pair": "BIO/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-08-24 14:45:00+00:00",
+              "close_date": "2025-08-24 16:45:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.18613037823654657,
+              "profit_abs": -7579.65646665,
+              "stake_amount": 40701.94561554
+            },
+            "profit_delta_pp": -14.683935325324576
+          },
+          {
+            "baseline": {
+              "pair": "ACT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-31 04:30:00+00:00",
+              "close_date": "2025-06-05 19:20:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.03321642175942604,
+              "profit_abs": 524.62446242,
+              "stake_amount": 15802.03038348
+            },
+            "candidate": {
+              "pair": "ACT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-31 04:30:00+00:00",
+              "close_date": "2025-05-31 06:30:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07835148152058904,
+              "profit_abs": -1797.26528781,
+              "stake_amount": 22949.97280329
+            },
+            "profit_delta_pp": -11.15679032800151
+          },
+          {
+            "baseline": {
+              "pair": "TRX/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-09-07 01:05:00+00:00",
+              "close_date": "2025-10-10 21:15:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.04760545743886296,
+              "profit_abs": 1926.32677438,
+              "stake_amount": 40484.65287966
+            },
+            "candidate": {
+              "pair": "TRX/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-09-07 01:05:00+00:00",
+              "close_date": "2025-09-10 13:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06277710453852484,
+              "profit_abs": -3411.60509003,
+              "stake_amount": 54371.92063881
+            },
+            "profit_delta_pp": -11.03825619773878
+          },
+          {
+            "baseline": {
+              "pair": "XPL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-03 06:10:00+00:00",
+              "close_date": "2025-11-03 15:30:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.039054925693017474,
+              "profit_abs": 1325.33455258,
+              "stake_amount": 33952.1207076
+            },
+            "candidate": {
+              "pair": "XPL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-03 06:10:00+00:00",
+              "close_date": "2025-11-03 08:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07109749565044314,
+              "profit_abs": -3847.52446828,
+              "stake_amount": 54143.2459422
+            },
+            "profit_delta_pp": -11.015242134346062
+          },
+          {
+            "baseline": {
+              "pair": "MOODENG/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-12 19:50:00+00:00",
+              "close_date": "2025-05-13 02:00:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.03156965991165123,
+              "profit_abs": 450.95938874,
+              "stake_amount": 14291.72764272
+            },
+            "candidate": {
+              "pair": "MOODENG/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-12 19:50:00+00:00",
+              "close_date": "2025-05-12 23:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07829325470469656,
+              "profit_abs": -1501.95678888,
+              "stake_amount": 19193.32832208
+            },
+            "profit_delta_pp": -10.986291461634778
+          },
+          {
+            "baseline": {
+              "pair": "LAYER/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-22 05:05:00+00:00",
+              "close_date": "2025-06-22 14:20:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.03154022582416335,
+              "profit_abs": 545.22319863,
+              "stake_amount": 17295.2454318
+            },
+            "candidate": {
+              "pair": "LAYER/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-22 05:05:00+00:00",
+              "close_date": "2025-06-22 09:05:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07742642570917349,
+              "profit_abs": -2639.65257229,
+              "stake_amount": 34109.4533892
+            },
+            "profit_delta_pp": -10.896665153333684
+          },
+          {
+            "baseline": {
+              "pair": "MOODENG/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-04-13 17:00:00+00:00",
+              "close_date": "2025-04-13 19:55:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.036321361524907364,
+              "profit_abs": 322.5005378,
+              "stake_amount": 8883.52900849
+            },
+            "candidate": {
+              "pair": "MOODENG/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-04-13 17:00:00+00:00",
+              "close_date": "2025-04-13 19:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06226468844712176,
+              "profit_abs": -852.5257364,
+              "stake_amount": 13698.81121674
+            },
+            "profit_delta_pp": -9.858604997202914
+          },
+          {
+            "baseline": {
+              "pair": "PNUT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-06 21:05:00+00:00",
+              "close_date": "2025-03-07 10:30:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.030248747710920426,
+              "profit_abs": 184.33366771,
+              "stake_amount": 6096.9757298
+            },
+            "candidate": {
+              "pair": "PNUT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-06 21:05:00+00:00",
+              "close_date": "2025-03-07 02:05:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06810954095302778,
+              "profit_abs": -499.89490302,
+              "stake_amount": 7343.2439642
+            },
+            "profit_delta_pp": -9.83582886639482
+          },
+          {
+            "baseline": {
+              "pair": "AUCTION/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-22 02:40:00+00:00",
+              "close_date": "2025-10-22 22:00:00+00:00",
+              "exit_reason": "v5_extension_timeout",
+              "profit_ratio": 0.02436749794593029,
+              "profit_abs": 1029.22108436,
+              "stake_amount": 42258.583734
+            },
+            "candidate": {
+              "pair": "AUCTION/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-22 02:40:00+00:00",
+              "close_date": "2025-10-22 04:50:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06791506692053405,
+              "profit_abs": -3534.93252524,
+              "stake_amount": 52075.349934
+            },
+            "profit_delta_pp": -9.228256486646433
+          },
+          {
+            "baseline": {
+              "pair": "MON/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-10 17:25:00+00:00",
+              "close_date": "2025-11-10 21:40:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.003552813524601209,
+              "profit_abs": 143.90595083,
+              "stake_amount": 40525.04833224
+            },
+            "candidate": {
+              "pair": "MON/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-10 17:25:00+00:00",
+              "close_date": "2025-11-10 19:25:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.08860625727704897,
+              "profit_abs": -5928.327927,
+              "stake_amount": 66939.89517288
+            },
+            "profit_delta_pp": -9.21590708016502
+          },
+          {
+            "baseline": {
+              "pair": "ARKM/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-20 06:20:00+00:00",
+              "close_date": "2025-01-20 17:05:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0030918975427677874,
+              "profit_abs": 17.42030132,
+              "stake_amount": 5636.996565
+            },
+            "candidate": {
+              "pair": "ARKM/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-20 06:20:00+00:00",
+              "close_date": "2025-01-20 08:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.08694085391019304,
+              "profit_abs": -479.62558252,
+              "stake_amount": 5519.44792
+            },
+            "profit_delta_pp": -9.003275145296083
+          },
+          {
+            "baseline": {
+              "pair": "ACT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-27 07:15:00+00:00",
+              "close_date": "2025-01-27 19:40:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0025965241342505723,
+              "profit_abs": 15.11557544,
+              "stake_amount": 5824.3776012
+            },
+            "candidate": {
+              "pair": "ACT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-27 07:15:00+00:00",
+              "close_date": "2025-01-27 15:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.08732908548652049,
+              "profit_abs": -491.57130265,
+              "stake_amount": 5631.7687116
+            },
+            "profit_delta_pp": -8.992560962077107
+          },
+          {
+            "baseline": {
+              "pair": "MON/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-08 01:15:00+00:00",
+              "close_date": "2025-12-11 01:15:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.029840519346800334,
+              "profit_abs": 1887.29568448,
+              "stake_amount": 63277.71251021
+            },
+            "candidate": {
+              "pair": "MON/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-08 01:15:00+00:00",
+              "close_date": "2025-12-08 05:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06001726614548079,
+              "profit_abs": -5027.76319297,
+              "stake_amount": 83813.8531659
+            },
+            "profit_delta_pp": -8.985778549228113
+          },
+          {
+            "baseline": {
+              "pair": "WCT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-30 12:30:00+00:00",
+              "close_date": "2025-12-31 01:25:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": 0.029117312070079525,
+              "profit_abs": 2180.84536773,
+              "stake_amount": 74936.04940753
+            },
+            "candidate": {
+              "pair": "WCT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-30 12:30:00+00:00",
+              "close_date": "2025-12-30 19:25:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06001363066345055,
+              "profit_abs": -8720.58404311,
+              "stake_amount": 145382.74755108
+            },
+            "profit_delta_pp": -8.913094273353007
+          },
+          {
+            "baseline": {
+              "pair": "ONT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-13 20:35:00+00:00",
+              "close_date": "2025-01-14 00:50:00+00:00",
+              "exit_reason": "v5_profit_floor",
+              "profit_ratio": 0.011580810043085242,
+              "profit_abs": 59.34276354,
+              "stake_amount": 5126.7959274
+            },
+            "candidate": {
+              "pair": "ONT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-13 20:35:00+00:00",
+              "close_date": "2025-01-13 22:35:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07727469390550072,
+              "profit_abs": -395.95194814,
+              "stake_amount": 5126.5168858
+            },
+            "profit_delta_pp": -8.885550394858596
+          },
+          {
+            "baseline": {
+              "pair": "HYPE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-02 15:40:00+00:00",
+              "close_date": "2025-03-03 09:00:00+00:00",
+              "exit_reason": "v5_profit_floor",
+              "profit_ratio": 0.004085198802418473,
+              "profit_abs": 31.45225468,
+              "stake_amount": 7702.927127
+            },
+            "candidate": {
+              "pair": "HYPE/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-02 15:40:00+00:00",
+              "close_date": "2025-03-02 17:40:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.08434369084617141,
+              "profit_abs": -598.44901267,
+              "stake_amount": 7098.911381
+            },
+            "profit_delta_pp": -8.84288896485899
+          },
+          {
+            "baseline": {
+              "pair": "API3/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-19 00:20:00+00:00",
+              "close_date": "2025-03-19 08:15:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0050893274377899304,
+              "profit_abs": 36.51989411,
+              "stake_amount": 7179.3696983
+            },
+            "candidate": {
+              "pair": "API3/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-19 00:20:00+00:00",
+              "close_date": "2025-03-19 04:45:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07013795577304587,
+              "profit_abs": -615.2423326,
+              "stake_amount": 8776.2767088
+            },
+            "profit_delta_pp": -7.52272832108358
+          },
+          {
+            "baseline": {
+              "pair": "ENJ/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-11 05:35:00+00:00",
+              "close_date": "2025-10-11 21:20:00+00:00",
+              "exit_reason": "v5_profit_floor",
+              "profit_ratio": -0.00029623160537513695,
+              "profit_abs": -9.54217634,
+              "stake_amount": 32227.99202272
+            },
+            "candidate": {
+              "pair": "ENJ/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-11 05:35:00+00:00",
+              "close_date": "2025-10-11 15:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07424443929275298,
+              "profit_abs": -3240.6838843,
+              "stake_amount": 43670.67847376
+            },
+            "profit_delta_pp": -7.394820768737785
+          },
+          {
+            "baseline": {
+              "pair": "AIXBT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-02 08:55:00+00:00",
+              "close_date": "2025-05-02 18:20:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.009458096525451373,
+              "profit_abs": 103.612777,
+              "stake_amount": 10960.40931975
+            },
+            "candidate": {
+              "pair": "AIXBT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-02 08:55:00+00:00",
+              "close_date": "2025-05-02 12:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06380334853699043,
+              "profit_abs": -1075.58322934,
+              "stake_amount": 16866.21963675
+            },
+            "profit_delta_pp": -7.326144506244181
+          },
+          {
+            "baseline": {
+              "pair": "ICP/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-24 15:40:00+00:00",
+              "close_date": "2025-11-25 10:05:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.001992027403879354,
+              "profit_abs": 92.85408497,
+              "stake_amount": 46636.173306
+            },
+            "candidate": {
+              "pair": "ICP/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-24 15:40:00+00:00",
+              "close_date": "2025-11-24 19:30:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07082614550926135,
+              "profit_abs": -4119.64252799,
+              "stake_amount": 58194.658908
+            },
+            "profit_delta_pp": -7.28181729131407
+          },
+          {
+            "baseline": {
+              "pair": "RESOLV/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-14 21:30:00+00:00",
+              "close_date": "2025-06-15 07:20:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.008081555570830873,
+              "profit_abs": 141.03298515,
+              "stake_amount": 17459.9476155
+            },
+            "candidate": {
+              "pair": "RESOLV/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-14 21:30:00+00:00",
+              "close_date": "2025-06-15 02:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06418001900375478,
+              "profit_abs": -1697.48882649,
+              "stake_amount": 26462.0986695
+            },
+            "profit_delta_pp": -7.226157457458565
+          },
+          {
+            "baseline": {
+              "pair": "MEME/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-08-01 11:00:00+00:00",
+              "close_date": "2025-08-02 06:35:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0033025647695845645,
+              "profit_abs": 73.54977608,
+              "stake_amount": 22281.64305584
+            },
+            "candidate": {
+              "pair": "MEME/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-08-01 11:00:00+00:00",
+              "close_date": "2025-08-01 15:15:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06877377431332984,
+              "profit_abs": -2305.90705294,
+              "stake_amount": 33545.64448827
+            },
+            "profit_delta_pp": -7.207633908291442
+          },
+          {
+            "baseline": {
+              "pair": "MORPHO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-04-14 00:15:00+00:00",
+              "close_date": "2025-04-14 07:15:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.008190485775299827,
+              "profit_abs": 74.30809933,
+              "stake_amount": 9077.0283968
+            },
+            "candidate": {
+              "pair": "MORPHO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-04-14 00:15:00+00:00",
+              "close_date": "2025-04-14 02:35:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06380557142445457,
+              "profit_abs": -841.00219277,
+              "stake_amount": 13187.2951756
+            },
+            "profit_delta_pp": -7.199605719975439
+          },
+          {
+            "baseline": {
+              "pair": "GAS/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-09 21:10:00+00:00",
+              "close_date": "2025-01-10 00:30:00+00:00",
+              "exit_reason": "v5_profit_floor",
+              "profit_ratio": 0.0034923206655363497,
+              "profit_abs": 16.15885617,
+              "stake_amount": 4629.2827
+            },
+            "candidate": {
+              "pair": "GAS/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-09 21:10:00+00:00",
+              "close_date": "2025-01-10 00:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06803338832822654,
+              "profit_abs": -328.84737724,
+              "stake_amount": 4836.03553
+            },
+            "profit_delta_pp": -7.15257089937629
+          },
+          {
+            "baseline": {
+              "pair": "NIGHT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-12 19:55:00+00:00",
+              "close_date": "2025-12-13 01:05:00+00:00",
+              "exit_reason": "v5_profit_floor",
+              "profit_ratio": -0.0021448575045943832,
+              "profit_abs": -164.63715958,
+              "stake_amount": 76797.41847038
+            },
+            "candidate": {
+              "pair": "NIGHT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-12 19:55:00+00:00",
+              "close_date": "2025-12-12 22:15:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07338629822083506,
+              "profit_abs": -7339.93531377,
+              "stake_amount": 100067.82322267
+            },
+            "profit_delta_pp": -7.124144071624068
+          },
+          {
+            "baseline": {
+              "pair": "BONK/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-07-25 04:00:00+00:00",
+              "close_date": "2025-07-25 14:45:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0069891034524911765,
+              "profit_abs": 151.44435139,
+              "stake_amount": 21679.47755756
+            },
+            "candidate": {
+              "pair": "BONK/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-07-25 04:00:00+00:00",
+              "close_date": "2025-07-25 11:05:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06267781974181098,
+              "profit_abs": -1907.17118716,
+              "stake_amount": 30443.38902733
+            },
+            "profit_delta_pp": -6.966692319430217
+          },
+          {
+            "baseline": {
+              "pair": "MOODENG/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-05-18 18:05:00+00:00",
+              "close_date": "2025-05-18 23:00:00+00:00",
+              "exit_reason": "fastk_profit_sell",
+              "profit_ratio": 0.006616253123738464,
+              "profit_abs": 118.37728805,
+              "stake_amount": 17882.95078388
+            },
+            "candidate": {
+              "pair": "MOODENG/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-05-18 18:05:00+00:00",
+              "close_date": "2025-05-18 20:05:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.06281673242295424,
+              "profit_abs": -1381.02067995,
+              "stake_amount": 21973.93053492
+            },
+            "profit_delta_pp": -6.943298554669271
+          },
+          {
+            "baseline": {
+              "pair": "ACH/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-02-04 04:20:00+00:00",
+              "close_date": "2025-02-04 13:05:00+00:00",
+              "exit_reason": "fastk_profit_sell",
+              "profit_ratio": 0.005641771289686919,
+              "profit_abs": 41.48680933,
+              "stake_amount": 7349.83290933
+            },
+            "candidate": {
+              "pair": "ACH/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-02-04 04:20:00+00:00",
+              "close_date": "2025-02-04 06:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.06179267819438202,
+              "profit_abs": -398.18314781,
+              "stake_amount": 6440.63612974
+            },
+            "profit_delta_pp": -6.743444948406895
+          },
+          {
+            "baseline": {
+              "pair": "AIXBT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-24 03:45:00+00:00",
+              "close_date": "2025-01-24 19:45:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.003087003616200558,
+              "profit_abs": 21.69166913,
+              "stake_amount": 7030.2866755
+            },
+            "candidate": {
+              "pair": "AIXBT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-24 03:45:00+00:00",
+              "close_date": "2025-01-24 06:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06421082788785999,
+              "profit_abs": -374.54013078,
+              "stake_amount": 5835.8925878
+            },
+            "profit_delta_pp": -6.729783150406055
+          },
+          {
+            "baseline": {
+              "pair": "RVN/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-20 06:45:00+00:00",
+              "close_date": "2025-06-20 23:10:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.003332835249002107,
+              "profit_abs": 67.41321826,
+              "stake_amount": 20237.10645495
+            },
+            "candidate": {
+              "pair": "RVN/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-20 06:45:00+00:00",
+              "close_date": "2025-06-20 11:35:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06352434102021853,
+              "profit_abs": -2151.54289512,
+              "stake_amount": 33886.52554518
+            },
+            "profit_delta_pp": -6.685717626922064
+          },
+          {
+            "baseline": {
+              "pair": "GRASS/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-15 11:05:00+00:00",
+              "close_date": "2025-05-15 22:55:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.002617952941342491,
+              "profit_abs": 44.07138311,
+              "stake_amount": 16842.7129184
+            },
+            "candidate": {
+              "pair": "GRASS/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-15 11:05:00+00:00",
+              "close_date": "2025-05-15 13:05:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06387767961923019,
+              "profit_abs": -1258.98291471,
+              "stake_amount": 19719.1370848
+            },
+            "profit_delta_pp": -6.649563256057268
+          },
+          {
+            "baseline": {
+              "pair": "MET/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-10-13 11:45:00+00:00",
+              "close_date": "2025-10-14 01:50:00+00:00",
+              "exit_reason": "fastk_profit_sell",
+              "profit_ratio": 0.00118417971914191,
+              "profit_abs": 45.13528598,
+              "stake_amount": 38096.1849675
+            },
+            "candidate": {
+              "pair": "MET/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-10-13 11:45:00+00:00",
+              "close_date": "2025-10-13 22:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.06492176843293998,
+              "profit_abs": -2824.97360022,
+              "stake_amount": 43491.7576564
+            },
+            "profit_delta_pp": -6.610594815208189
+          },
+          {
+            "baseline": {
+              "pair": "RAY/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-27 20:35:00+00:00",
+              "close_date": "2025-01-28 21:50:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0006963722266261226,
+              "profit_abs": 4.06021607,
+              "stake_amount": 5833.442286
+            },
+            "candidate": {
+              "pair": "RAY/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-27 20:35:00+00:00",
+              "close_date": "2025-01-28 05:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06537367157983041,
+              "profit_abs": -426.20498177,
+              "stake_amount": 6522.781734
+            },
+            "profit_delta_pp": -6.6070043806456535
+          },
+          {
+            "baseline": {
+              "pair": "LAYER/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-04-26 08:00:00+00:00",
+              "close_date": "2025-04-26 13:45:00+00:00",
+              "exit_reason": "cci_loss_sell",
+              "profit_ratio": -0.045921920257619084,
+              "profit_abs": -481.01362306,
+              "stake_amount": 10469.36264304
+            },
+            "candidate": {
+              "pair": "LAYER/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-04-26 08:00:00+00:00",
+              "close_date": "2025-04-26 12:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.11174714391365774,
+              "profit_abs": -1676.85627547,
+              "stake_amount": 14998.30964478
+            },
+            "profit_delta_pp": -6.582522365603865
+          },
+          {
+            "baseline": {
+              "pair": "COMP/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-19 12:35:00+00:00",
+              "close_date": "2025-01-19 22:40:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.004752376188094047,
+              "profit_abs": 26.58663711,
+              "stake_amount": 5597.18676
+            },
+            "candidate": {
+              "pair": "COMP/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-19 12:35:00+00:00",
+              "close_date": "2025-01-19 14:45:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06048769065383755,
+              "profit_abs": -334.30275915,
+              "stake_amount": 5529.5547
+            },
+            "profit_delta_pp": -6.524006684193159
+          },
+          {
+            "baseline": {
+              "pair": "BICO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-17 10:55:00+00:00",
+              "close_date": "2025-10-21 04:55:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.00042317302777155746,
+              "profit_abs": 15.5182268,
+              "stake_amount": 36689.45980952
+            },
+            "candidate": {
+              "pair": "BICO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-17 10:55:00+00:00",
+              "close_date": "2025-10-20 03:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06474942591394715,
+              "profit_abs": -2869.83420784,
+              "stake_amount": 44344.32896096
+            },
+            "profit_delta_pp": -6.517259894171872
+          },
+          {
+            "baseline": {
+              "pair": "RVN/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-14 04:10:00+00:00",
+              "close_date": "2025-06-14 20:10:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 8.107781619877904e-05,
+              "profit_abs": 1.41483784,
+              "stake_amount": 17459.09891475
+            },
+            "candidate": {
+              "pair": "RVN/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-14 04:10:00+00:00",
+              "close_date": "2025-06-14 06:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06481360615472466,
+              "profit_abs": -1783.57163526,
+              "stake_amount": 27532.24165515
+            },
+            "profit_delta_pp": -6.4894683970923435
+          },
+          {
+            "baseline": {
+              "pair": "RAY/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-04-28 03:20:00+00:00",
+              "close_date": "2025-04-28 13:55:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0024580742752134126,
+              "profit_abs": 25.28651821,
+              "stake_amount": 10292.2714944
+            },
+            "candidate": {
+              "pair": "RAY/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-04-28 03:20:00+00:00",
+              "close_date": "2025-04-28 06:40:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06243300221528967,
+              "profit_abs": -1203.61138981,
+              "stake_amount": 19288.092096
+            },
+            "profit_delta_pp": -6.489107649050309
+          },
+          {
+            "baseline": {
+              "pair": "BIO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-15 13:35:00+00:00",
+              "close_date": "2025-01-17 13:05:00+00:00",
+              "exit_reason": "v5_profit_floor",
+              "profit_ratio": 0.002034367359762046,
+              "profit_abs": 10.49697018,
+              "stake_amount": 5162.401589
+            },
+            "candidate": {
+              "pair": "BIO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-15 13:35:00+00:00",
+              "close_date": "2025-01-15 15:35:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0627094750006684,
+              "profit_abs": -306.42992929,
+              "stake_amount": 4888.9457438
+            },
+            "profit_delta_pp": -6.474384236043044
+          },
+          {
+            "baseline": {
+              "pair": "ONT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-28 05:20:00+00:00",
+              "close_date": "2025-12-28 11:05:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.00010209668173321259,
+              "profit_abs": 7.59430527,
+              "stake_amount": 74420.6784508
+            },
+            "candidate": {
+              "pair": "ONT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-28 05:20:00+00:00",
+              "close_date": "2025-12-28 07:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06432106690638478,
+              "profit_abs": -7452.44887774,
+              "stake_amount": 115921.22651005
+            },
+            "profit_delta_pp": -6.442316358811799
+          },
+          {
+            "baseline": {
+              "pair": "GRASS/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-15 18:10:00+00:00",
+              "close_date": "2025-02-17 16:15:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0006709410839202528,
+              "profit_abs": 4.59113543,
+              "stake_amount": 6846.2526087
+            },
+            "candidate": {
+              "pair": "GRASS/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-15 18:10:00+00:00",
+              "close_date": "2025-02-15 21:30:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0636795502628801,
+              "profit_abs": -397.75003091,
+              "stake_amount": 6249.2433406
+            },
+            "profit_delta_pp": -6.4350491346800345
+          },
+          {
+            "baseline": {
+              "pair": "ANIME/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-16 05:35:00+00:00",
+              "close_date": "2025-06-16 13:20:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0024129711917312883,
+              "profit_abs": 42.31336896,
+              "stake_amount": 17544.56761572
+            },
+            "candidate": {
+              "pair": "ANIME/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-16 05:35:00+00:00",
+              "close_date": "2025-06-16 09:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06158961833855339,
+              "profit_abs": -1914.33941239,
+              "stake_amount": 31097.72576268
+            },
+            "profit_delta_pp": -6.400258953028468
+          },
+          {
+            "baseline": {
+              "pair": "CC/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-17 20:40:00+00:00",
+              "close_date": "2025-11-18 08:40:00+00:00",
+              "exit_reason": "v5_profit_floor",
+              "profit_ratio": 0.0032683608674363316,
+              "profit_abs": 128.61999244,
+              "stake_amount": 39372.74365552
+            },
+            "candidate": {
+              "pair": "CC/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-17 20:40:00+00:00",
+              "close_date": "2025-11-17 22:50:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06029023799229791,
+              "profit_abs": -3314.5446243,
+              "stake_amount": 55003.97470792
+            },
+            "profit_delta_pp": -6.355859885973423
+          },
+          {
+            "baseline": {
+              "pair": "MON/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-28 21:50:00+00:00",
+              "close_date": "2025-12-30 00:30:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0004021160509647247,
+              "profit_abs": 29.91261782,
+              "stake_amount": 74425.23505094
+            },
+            "candidate": {
+              "pair": "MON/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-28 21:50:00+00:00",
+              "close_date": "2025-12-29 00:40:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06224807873341071,
+              "profit_abs": -6934.0644947,
+              "stake_amount": 111449.75720523
+            },
+            "profit_delta_pp": -6.2650194784375435
+          },
+          {
+            "baseline": {
+              "pair": "MORPHO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-04 17:20:00+00:00",
+              "close_date": "2025-03-05 19:30:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0011649007384395252,
+              "profit_abs": 7.06609077,
+              "stake_amount": 6068.8652256
+            },
+            "candidate": {
+              "pair": "MORPHO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-04 17:20:00+00:00",
+              "close_date": "2025-03-05 07:50:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06005157045310756,
+              "profit_abs": -455.72845219,
+              "stake_amount": 7592.747816
+            },
+            "profit_delta_pp": -6.121647119154709
+          },
+          {
+            "baseline": {
+              "pair": "SAHARA/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-18 01:00:00+00:00",
+              "close_date": "2025-12-18 11:25:00+00:00",
+              "exit_reason": "fastk_profit_cover",
+              "profit_ratio": 0.0005030679064992004,
+              "profit_abs": 40.67652888,
+              "stake_amount": 80897.38342059
+            },
+            "candidate": {
+              "pair": "SAHARA/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-18 01:00:00+00:00",
+              "close_date": "2025-12-18 03:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06039144243544162,
+              "profit_abs": -5167.67299446,
+              "stake_amount": 85612.42975855
+            },
+            "profit_delta_pp": -6.089451034194082
+          },
+          {
+            "baseline": {
+              "pair": "ACT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-01 23:50:00+00:00",
+              "close_date": "2025-02-02 16:45:00+00:00",
+              "exit_reason": "v5_profit_floor",
+              "profit_ratio": -0.00866680605030561,
+              "profit_abs": -61.58893086,
+              "stake_amount": 7109.8557384
+            },
+            "candidate": {
+              "pair": "ACT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-01 23:50:00+00:00",
+              "close_date": "2025-02-02 01:50:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06671169282689322,
+              "profit_abs": -461.35980459,
+              "stake_amount": 6919.1858328
+            },
+            "profit_delta_pp": -5.804488677658762
+          },
+          {
+            "baseline": {
+              "pair": "WLFI/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-08-31 14:50:00+00:00",
+              "close_date": "2025-08-31 18:35:00+00:00",
+              "exit_reason": "cci_loss_sell",
+              "profit_ratio": -0.03782631797036344,
+              "profit_abs": -1138.88692709,
+              "stake_amount": 30093.2744524
+            },
+            "candidate": {
+              "pair": "WLFI/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-08-31 14:50:00+00:00",
+              "close_date": "2025-08-31 17:15:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.08809784692204511,
+              "profit_abs": -3512.35979033,
+              "stake_amount": 39848.9249254
+            },
+            "profit_delta_pp": -5.027152895168167
+          },
+          {
+            "baseline": {
+              "pair": "RVN/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-06-10 04:55:00+00:00",
+              "close_date": "2025-06-10 21:15:00+00:00",
+              "exit_reason": "cci_loss_sell",
+              "profit_ratio": -0.04592034383590218,
+              "profit_abs": -858.21637348,
+              "stake_amount": 18679.90106532
+            },
+            "candidate": {
+              "pair": "RVN/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-06-10 04:55:00+00:00",
+              "close_date": "2025-06-10 08:25:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.09230599753889236,
+              "profit_abs": -2274.79127385,
+              "stake_amount": 24631.70874318
+            },
+            "profit_delta_pp": -4.638565370299018
+          },
+          {
+            "baseline": {
+              "pair": "RVN/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-06-05 22:15:00+00:00",
+              "close_date": "2025-06-06 04:20:00+00:00",
+              "exit_reason": "cci_loss_sell",
+              "profit_ratio": -0.049919627814894,
+              "profit_abs": -804.94718395,
+              "stake_amount": 16116.80508672
+            },
+            "candidate": {
+              "pair": "RVN/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-06-05 22:15:00+00:00",
+              "close_date": "2025-06-06 00:15:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.08339129404385232,
+              "profit_abs": -2099.44774062,
+              "stake_amount": 25163.28071664
+            },
+            "profit_delta_pp": -3.3471666228958314
+          },
+          {
+            "baseline": {
+              "pair": "KAITO/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-02-21 17:40:00+00:00",
+              "close_date": "2025-02-22 00:55:00+00:00",
+              "exit_reason": "cci_loss_sell",
+              "profit_ratio": -0.038261477101935566,
+              "profit_abs": -234.30973116,
+              "stake_amount": 6120.8466735
+            },
+            "candidate": {
+              "pair": "KAITO/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-02-21 17:40:00+00:00",
+              "close_date": "2025-02-21 22:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.06442536516816463,
+              "profit_abs": -423.53261673,
+              "stake_amount": 6570.7187712
+            },
+            "profit_delta_pp": -2.616388806622907
+          },
+          {
+            "baseline": {
+              "pair": "ACH/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-02-01 10:30:00+00:00",
+              "close_date": "2025-02-01 19:00:00+00:00",
+              "exit_reason": "cci_loss_sell",
+              "profit_ratio": -0.043313730120258256,
+              "profit_abs": -320.13163421,
+              "stake_amount": 7387.30299832
+            },
+            "candidate": {
+              "pair": "ACH/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-02-01 10:30:00+00:00",
+              "close_date": "2025-02-01 13:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.0629321457866079,
+              "profit_abs": -459.51557919,
+              "stake_amount": 7298.11339628
+            },
+            "profit_delta_pp": -1.9618415666349642
+          },
+          {
+            "baseline": {
+              "pair": "PARTI/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-03-26 13:55:00+00:00",
+              "close_date": "2025-03-26 20:40:00+00:00",
+              "exit_reason": "cci_loss_sell",
+              "profit_ratio": -0.04215787285766277,
+              "profit_abs": -348.04187295,
+              "stake_amount": 8251.5533968
+            },
+            "candidate": {
+              "pair": "PARTI/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-03-26 13:55:00+00:00",
+              "close_date": "2025-03-26 16:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.06119712004962528,
+              "profit_abs": -540.12344419,
+              "stake_amount": 8821.5510304
+            },
+            "profit_delta_pp": -1.9039247191962503
+          },
+          {
+            "baseline": {
+              "pair": "CRO/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-08-28 13:55:00+00:00",
+              "close_date": "2025-08-28 21:45:00+00:00",
+              "exit_reason": "cci_loss_sell",
+              "profit_ratio": -0.04809360025878959,
+              "profit_abs": -1351.00414537,
+              "stake_amount": 28077.10326558
+            },
+            "candidate": {
+              "pair": "CRO/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-08-28 13:55:00+00:00",
+              "close_date": "2025-08-28 15:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.06437957491830179,
+              "profit_abs": -2519.93737151,
+              "stake_amount": 39122.31535685
+            },
+            "profit_delta_pp": -1.6285974659512203
+          },
+          {
+            "baseline": {
+              "pair": "LUNA/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-12 07:15:00+00:00",
+              "close_date": "2025-12-12 11:00:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1348237715481622,
+              "profit_abs": -10469.14769757,
+              "stake_amount": 77689.45171715
+            },
+            "candidate": {
+              "pair": "LUNA/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-12 07:15:00+00:00",
+              "close_date": "2025-12-12 10:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.11179061086606985,
+              "profit_abs": -9805.50495698,
+              "stake_amount": 87757.0136352
+            },
+            "profit_delta_pp": 2.303316068209234
+          },
+          {
+            "baseline": {
+              "pair": "NIGHT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-16 15:55:00+00:00",
+              "close_date": "2025-12-17 00:05:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.11584511722924842,
+              "profit_abs": -9142.92068461,
+              "stake_amount": 78963.14191408
+            },
+            "candidate": {
+              "pair": "NIGHT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-16 15:55:00+00:00",
+              "close_date": "2025-12-16 18:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0823796428192224,
+              "profit_abs": -7182.92248785,
+              "stake_amount": 87236.54897962
+            },
+            "profit_delta_pp": 3.346547441002602
+          },
+          {
+            "baseline": {
+              "pair": "CFX/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-07-29 14:15:00+00:00",
+              "close_date": "2025-07-29 23:40:00+00:00",
+              "exit_reason": "ma120_sell_fast",
+              "profit_ratio": -0.13269197624871354,
+              "profit_abs": -3492.38925493,
+              "stake_amount": 26306.36781248
+            },
+            "candidate": {
+              "pair": "CFX/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-07-29 14:15:00+00:00",
+              "close_date": "2025-07-29 16:15:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.0934087092606403,
+              "profit_abs": -2849.36353838,
+              "stake_amount": 30489.01532992
+            },
+            "profit_delta_pp": 3.9283266988073247
+          },
+          {
+            "baseline": {
+              "pair": "MON/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-16 12:05:00+00:00",
+              "close_date": "2025-10-17 01:20:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1399629226376937,
+              "profit_abs": -4456.63993065,
+              "stake_amount": 31857.5039825
+            },
+            "candidate": {
+              "pair": "MON/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-16 12:05:00+00:00",
+              "close_date": "2025-10-16 17:50:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.09470760590376426,
+              "profit_abs": -4247.92478558,
+              "stake_amount": 44875.4856585
+            },
+            "profit_delta_pp": 4.525531673392943
+          },
+          {
+            "baseline": {
+              "pair": "NEIRO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-17 10:05:00+00:00",
+              "close_date": "2025-05-18 05:45:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14468807205823586,
+              "profit_abs": -2641.75333403,
+              "stake_amount": 18267.39988907
+            },
+            "candidate": {
+              "pair": "NEIRO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-17 10:05:00+00:00",
+              "close_date": "2025-05-17 12:05:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0954172141017365,
+              "profit_abs": -1818.68600726,
+              "stake_amount": 19069.89029487
+            },
+            "profit_delta_pp": 4.927085795649937
+          },
+          {
+            "baseline": {
+              "pair": "AVNT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-21 12:40:00+00:00",
+              "close_date": "2025-11-21 16:20:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14543289511559324,
+              "profit_abs": -6104.43023573,
+              "stake_amount": 41995.2031682
+            },
+            "candidate": {
+              "pair": "AVNT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-21 12:40:00+00:00",
+              "close_date": "2025-11-21 14:40:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.09123687452818821,
+              "profit_abs": -6000.94899544,
+              "stake_amount": 65806.188583
+            },
+            "profit_delta_pp": 5.4196020587405025
+          },
+          {
+            "baseline": {
+              "pair": "WLFI/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-09-04 15:50:00+00:00",
+              "close_date": "2025-09-06 10:05:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.12257490833952465,
+              "profit_abs": -4605.24409621,
+              "stake_amount": 37589.6497298
+            },
+            "candidate": {
+              "pair": "WLFI/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-09-04 15:50:00+00:00",
+              "close_date": "2025-09-04 23:25:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0663325419804574,
+              "profit_abs": -2734.46831034,
+              "stake_amount": 41244.2542796
+            },
+            "profit_delta_pp": 5.624236635906725
+          },
+          {
+            "baseline": {
+              "pair": "CFX/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-07-20 07:15:00+00:00",
+              "close_date": "2025-07-20 13:45:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.12535098320524926,
+              "profit_abs": -2594.99456393,
+              "stake_amount": 20712.18465063
+            },
+            "candidate": {
+              "pair": "CFX/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-07-20 07:15:00+00:00",
+              "close_date": "2025-07-20 13:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06345424224931534,
+              "profit_abs": -2256.31530907,
+              "stake_amount": 35575.93552557
+            },
+            "profit_delta_pp": 6.189674095593392
+          },
+          {
+            "baseline": {
+              "pair": "ASTER/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-04 08:25:00+00:00",
+              "close_date": "2025-11-04 22:30:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.13404704641973225,
+              "profit_abs": -4741.47929671,
+              "stake_amount": 35389.4498165
+            },
+            "candidate": {
+              "pair": "ASTER/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-04 08:25:00+00:00",
+              "close_date": "2025-11-04 10:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07124815985555598,
+              "profit_abs": -3874.71777732,
+              "stake_amount": 54410.613737
+            },
+            "profit_delta_pp": 6.2798886564176275
+          },
+          {
+            "baseline": {
+              "pair": "ANIME/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-07 17:55:00+00:00",
+              "close_date": "2025-06-08 06:35:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1311754531974664,
+              "profit_abs": -2092.58860772,
+              "stake_amount": 15960.57322006
+            },
+            "candidate": {
+              "pair": "ANIME/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-07 17:55:00+00:00",
+              "close_date": "2025-06-08 01:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06737048857561007,
+              "profit_abs": -1668.33818219,
+              "stake_amount": 24776.02291248
+            },
+            "profit_delta_pp": 6.380496462185634
+          },
+          {
+            "baseline": {
+              "pair": "RAY/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-21 16:15:00+00:00",
+              "close_date": "2025-01-22 09:25:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.13160184509720924,
+              "profit_abs": -801.04837242,
+              "stake_amount": 6089.9533466
+            },
+            "candidate": {
+              "pair": "RAY/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-21 16:15:00+00:00",
+              "close_date": "2025-01-21 19:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06694704085424333,
+              "profit_abs": -386.4997968,
+              "stake_amount": 5776.105089
+            },
+            "profit_delta_pp": 6.465480424296591
+          },
+          {
+            "baseline": {
+              "pair": "KAITO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-16 01:40:00+00:00",
+              "close_date": "2025-05-16 10:35:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.12929225806933317,
+              "profit_abs": -2200.58185899,
+              "stake_amount": 17028.72804
+            },
+            "candidate": {
+              "pair": "KAITO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-16 01:40:00+00:00",
+              "close_date": "2025-05-16 05:45:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06395548520519823,
+              "profit_abs": -1265.24277297,
+              "stake_amount": 19793.0749296
+            },
+            "profit_delta_pp": 6.533677286413495
+          },
+          {
+            "baseline": {
+              "pair": "XPL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-09 11:50:00+00:00",
+              "close_date": "2025-11-09 22:25:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.13351156891755053,
+              "profit_abs": -4585.1357611,
+              "stake_amount": 34359.7900394
+            },
+            "candidate": {
+              "pair": "XPL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-09 11:50:00+00:00",
+              "close_date": "2025-11-09 19:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06708121787060464,
+              "profit_abs": -4517.43441768,
+              "stake_amount": 67376.4491505
+            },
+            "profit_delta_pp": 6.643035104694589
+          },
+          {
+            "baseline": {
+              "pair": "MERL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-09-03 13:55:00+00:00",
+              "close_date": "2025-09-03 18:35:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1464450173804221,
+              "profit_abs": -4833.83376845,
+              "stake_amount": 33024.35262672
+            },
+            "candidate": {
+              "pair": "MERL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-09-03 13:55:00+00:00",
+              "close_date": "2025-09-03 17:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.079562267906393,
+              "profit_abs": -3386.13522148,
+              "stake_amount": 42580.851768
+            },
+            "profit_delta_pp": 6.68827494740291
+          },
+          {
+            "baseline": {
+              "pair": "KAITO/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-02-27 12:40:00+00:00",
+              "close_date": "2025-02-27 22:45:00+00:00",
+              "exit_reason": "ma120_sell_fast",
+              "profit_ratio": -0.1309387541708201,
+              "profit_abs": -783.71744951,
+              "stake_amount": 5982.3830735
+            },
+            "candidate": {
+              "pair": "KAITO/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-02-27 12:40:00+00:00",
+              "close_date": "2025-02-27 14:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.06202975617004854,
+              "profit_abs": -437.89695456,
+              "stake_amount": 7055.9380292
+            },
+            "profit_delta_pp": 6.890899800077155
+          },
+          {
+            "baseline": {
+              "pair": "RSR/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-14 11:05:00+00:00",
+              "close_date": "2025-10-15 05:40:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.13378985607606658,
+              "profit_abs": -4378.68029688,
+              "stake_amount": 32744.41621161
+            },
+            "candidate": {
+              "pair": "RSR/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-14 11:05:00+00:00",
+              "close_date": "2025-10-14 16:25:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06319076584152176,
+              "profit_abs": -2757.85140928,
+              "stake_amount": 43665.09865876
+            },
+            "profit_delta_pp": 7.059909023454482
+          },
+          {
+            "baseline": {
+              "pair": "PENGU/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-30 15:40:00+00:00",
+              "close_date": "2025-07-02 04:25:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.13773974911435688,
+              "profit_abs": -2862.11909564,
+              "stake_amount": 20789.57519153
+            },
+            "candidate": {
+              "pair": "PENGU/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-30 15:40:00+00:00",
+              "close_date": "2025-06-30 23:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06623456467914682,
+              "profit_abs": -2200.9810494,
+              "stake_amount": 33246.72096982
+            },
+            "profit_delta_pp": 7.1505184435210065
+          },
+          {
+            "baseline": {
+              "pair": "RAY/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-20 20:20:00+00:00",
+              "close_date": "2025-03-24 10:45:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1366605515830296,
+              "profit_abs": -983.63893308,
+              "stake_amount": 7201.280744
+            },
+            "candidate": {
+              "pair": "RAY/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-20 20:20:00+00:00",
+              "close_date": "2025-03-21 21:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06497554398062505,
+              "profit_abs": -545.98477693,
+              "stake_amount": 8407.130936
+            },
+            "profit_delta_pp": 7.168500760240454
+          },
+          {
+            "baseline": {
+              "pair": "PARTI/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-30 12:30:00+00:00",
+              "close_date": "2025-03-30 14:35:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.13857093631448533,
+              "profit_abs": -1027.86499833,
+              "stake_amount": 7421.319472
+            },
+            "candidate": {
+              "pair": "PARTI/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-30 12:30:00+00:00",
+              "close_date": "2025-03-30 14:35:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0666872850379479,
+              "profit_abs": -646.43478388,
+              "stake_amount": 9698.3729746
+            },
+            "profit_delta_pp": 7.188365127653744
+          },
+          {
+            "baseline": {
+              "pair": "ORDI/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-11-08 05:50:00+00:00",
+              "close_date": "2025-11-08 17:40:00+00:00",
+              "exit_reason": "ma120_sell_fast",
+              "profit_ratio": -0.1474762212059007,
+              "profit_abs": -5320.41895069,
+              "stake_amount": 36058.423705
+            },
+            "candidate": {
+              "pair": "ORDI/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-11-08 05:50:00+00:00",
+              "close_date": "2025-11-08 11:05:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.07496943147628789,
+              "profit_abs": -4140.27809624,
+              "stake_amount": 55198.61776
+            },
+            "profit_delta_pp": 7.250678972961282
+          },
+          {
+            "baseline": {
+              "pair": "EIGEN/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-13 22:10:00+00:00",
+              "close_date": "2025-03-15 21:35:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14427347261445905,
+              "profit_abs": -997.17090994,
+              "stake_amount": 6915.129488
+            },
+            "candidate": {
+              "pair": "EIGEN/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-03-13 22:10:00+00:00",
+              "close_date": "2025-03-14 07:20:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.07072668013364437,
+              "profit_abs": -559.99917916,
+              "stake_amount": 7921.7534
+            },
+            "profit_delta_pp": 7.354679248081468
+          },
+          {
+            "baseline": {
+              "pair": "GMX/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-04-06 23:15:00+00:00",
+              "close_date": "2025-04-07 08:40:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.13930971450003019,
+              "profit_abs": -1099.73975428,
+              "stake_amount": 7898.1563
+            },
+            "candidate": {
+              "pair": "GMX/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-04-06 23:15:00+00:00",
+              "close_date": "2025-04-07 06:15:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0636874103051339,
+              "profit_abs": -764.58661762,
+              "stake_amount": 12011.30802
+            },
+            "profit_delta_pp": 7.562230419489628
+          },
+          {
+            "baseline": {
+              "pair": "PNUT/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-02-23 03:10:00+00:00",
+              "close_date": "2025-02-24 08:10:00+00:00",
+              "exit_reason": "ma120_sell_fast",
+              "profit_ratio": -0.1452539403470876,
+              "profit_abs": -904.29176838,
+              "stake_amount": 6222.4807554
+            },
+            "candidate": {
+              "pair": "PNUT/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-02-23 03:10:00+00:00",
+              "close_date": "2025-02-23 09:40:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.06824979082986167,
+              "profit_abs": -449.87418803,
+              "stake_amount": 6588.2892516
+            },
+            "profit_delta_pp": 7.7004149517225935
+          },
+          {
+            "baseline": {
+              "pair": "ASTER/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-30 20:40:00+00:00",
+              "close_date": "2025-10-31 11:55:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.13935750287770718,
+              "profit_abs": -4437.84258117,
+              "stake_amount": 31860.9513
+            },
+            "candidate": {
+              "pair": "ASTER/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-30 20:40:00+00:00",
+              "close_date": "2025-10-31 02:00:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0616022216294674,
+              "profit_abs": -3039.58570491,
+              "stake_amount": 49366.82765
+            },
+            "profit_delta_pp": 7.775528124823977
+          },
+          {
+            "baseline": {
+              "pair": "PENGU/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-13 17:30:00+00:00",
+              "close_date": "2025-02-14 14:50:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14572468605091357,
+              "profit_abs": -879.43601473,
+              "stake_amount": 6037.93342467
+            },
+            "candidate": {
+              "pair": "PENGU/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-13 17:30:00+00:00",
+              "close_date": "2025-02-14 06:35:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0679367039150143,
+              "profit_abs": -436.4539278,
+              "stake_amount": 6427.63394112
+            },
+            "profit_delta_pp": 7.778798213589927
+          },
+          {
+            "baseline": {
+              "pair": "ZEC/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-18 15:25:00+00:00",
+              "close_date": "2025-11-19 20:35:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1422042684409159,
+              "profit_abs": -5725.34833157,
+              "stake_amount": 40281.57875
+            },
+            "candidate": {
+              "pair": "ZEC/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-18 15:25:00+00:00",
+              "close_date": "2025-11-18 17:50:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0643035124473684,
+              "profit_abs": -4458.8103835,
+              "stake_amount": 69374.7625
+            },
+            "profit_delta_pp": 7.790075599354751
+          },
+          {
+            "baseline": {
+              "pair": "OL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-05 11:50:00+00:00",
+              "close_date": "2025-11-07 15:25:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1453889219228767,
+              "profit_abs": -5147.54229408,
+              "stake_amount": 35423.03832123
+            },
+            "candidate": {
+              "pair": "OL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-05 11:50:00+00:00",
+              "close_date": "2025-11-05 15:45:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0657901766417538,
+              "profit_abs": -3735.28662582,
+              "stake_amount": 56804.15214222
+            },
+            "profit_delta_pp": 7.95987452811229
+          },
+          {
+            "baseline": {
+              "pair": "ASTER/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-01 18:20:00+00:00",
+              "close_date": "2025-12-03 04:30:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1432173883333802,
+              "profit_abs": -9161.65123193,
+              "stake_amount": 64002.2448096
+            },
+            "candidate": {
+              "pair": "ASTER/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-12-01 18:20:00+00:00",
+              "close_date": "2025-12-02 07:45:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.062058090901136724,
+              "profit_abs": -4634.05576926,
+              "stake_amount": 74710.2253536
+            },
+            "profit_delta_pp": 8.11592974322435
+          },
+          {
+            "baseline": {
+              "pair": "EIGEN/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-13 06:00:00+00:00",
+              "close_date": "2025-05-13 18:15:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14327980522527753,
+              "profit_abs": -2124.69997602,
+              "stake_amount": 14836.4443552
+            },
+            "candidate": {
+              "pair": "EIGEN/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-13 06:00:00+00:00",
+              "close_date": "2025-05-13 12:35:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06170012735914152,
+              "profit_abs": -1152.46160525,
+              "stake_amount": 18687.7754336
+            },
+            "profit_delta_pp": 8.157967786613602
+          },
+          {
+            "baseline": {
+              "pair": "LAYER/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-25 15:50:00+00:00",
+              "close_date": "2025-02-26 15:35:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14441703836477374,
+              "profit_abs": -904.17216859,
+              "stake_amount": 6263.9733585
+            },
+            "candidate": {
+              "pair": "LAYER/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-25 15:50:00+00:00",
+              "close_date": "2025-02-25 20:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06230855587671631,
+              "profit_abs": -432.39368643,
+              "stake_amount": 6943.02709056
+            },
+            "profit_delta_pp": 8.210848248805743
+          },
+          {
+            "baseline": {
+              "pair": "METIS/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-22 23:40:00+00:00",
+              "close_date": "2025-10-27 02:40:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14364577110574084,
+              "profit_abs": -5242.1772192,
+              "stake_amount": 36512.03637
+            },
+            "candidate": {
+              "pair": "METIS/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-10-22 23:40:00+00:00",
+              "close_date": "2025-10-23 05:55:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.061470864882279326,
+              "profit_abs": -3158.1069078,
+              "stake_amount": 51401.37132
+            },
+            "profit_delta_pp": 8.217490622346151
+          },
+          {
+            "baseline": {
+              "pair": "HMSTR/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-07 23:45:00+00:00",
+              "close_date": "2025-02-11 05:30:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14574671654572158,
+              "profit_abs": -849.46714466,
+              "stake_amount": 5831.29493994
+            },
+            "candidate": {
+              "pair": "HMSTR/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-07 23:45:00+00:00",
+              "close_date": "2025-02-08 10:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06340220238728926,
+              "profit_abs": -355.9756069,
+              "stake_amount": 5617.37085356
+            },
+            "profit_delta_pp": 8.234451415843232
+          },
+          {
+            "baseline": {
+              "pair": "BABY/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-12 03:35:00+00:00",
+              "close_date": "2025-11-12 21:20:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14980768121541285,
+              "profit_abs": -5244.62124194,
+              "stake_amount": 35026.5408409
+            },
+            "candidate": {
+              "pair": "BABY/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-11-12 03:35:00+00:00",
+              "close_date": "2025-11-12 05:35:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06741931516885556,
+              "profit_abs": -4481.82799604,
+              "stake_amount": 66510.16878212
+            },
+            "profit_delta_pp": 8.238836604655729
+          },
+          {
+            "baseline": {
+              "pair": "EIGEN/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-01 11:55:00+00:00",
+              "close_date": "2025-01-03 18:25:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14741890011513203,
+              "profit_abs": -707.25654624,
+              "stake_amount": 4799.997496
+            },
+            "candidate": {
+              "pair": "EIGEN/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-01 11:55:00+00:00",
+              "close_date": "2025-01-02 08:10:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.0642395756785621,
+              "profit_abs": -308.1956275,
+              "stake_amount": 4799.997496
+            },
+            "profit_delta_pp": 8.317932443656993
+          },
+          {
+            "baseline": {
+              "pair": "SPK/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-26 16:30:00+00:00",
+              "close_date": "2025-06-29 13:45:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14454637351387156,
+              "profit_abs": -2620.83703956,
+              "stake_amount": 18140.53199588
+            },
+            "candidate": {
+              "pair": "SPK/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-06-26 16:30:00+00:00",
+              "close_date": "2025-06-26 19:30:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.060765797293266754,
+              "profit_abs": -2015.18525542,
+              "stake_amount": 33179.73995084
+            },
+            "profit_delta_pp": 8.378057622060481
+          },
+          {
+            "baseline": {
+              "pair": "BERA/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-06 17:15:00+00:00",
+              "close_date": "2025-05-08 00:50:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14461606700033489,
+              "profit_abs": -1733.92397497,
+              "stake_amount": 11995.841172
+            },
+            "candidate": {
+              "pair": "BERA/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-06 17:15:00+00:00",
+              "close_date": "2025-05-07 00:45:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.060600960451668004,
+              "profit_abs": -887.02667525,
+              "stake_amount": 14644.494144
+            },
+            "profit_delta_pp": 8.401510654866689
+          },
+          {
+            "baseline": {
+              "pair": "VIRTUAL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-30 03:45:00+00:00",
+              "close_date": "2025-01-31 08:15:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14473049908581717,
+              "profit_abs": -993.37875509,
+              "stake_amount": 6867.0784611
+            },
+            "candidate": {
+              "pair": "VIRTUAL/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-01-30 03:45:00+00:00",
+              "close_date": "2025-01-30 10:50:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.060117318114513166,
+              "profit_abs": -454.23639615,
+              "stake_amount": 7559.6124747
+            },
+            "profit_delta_pp": 8.4613180971304
+          },
+          {
+            "baseline": {
+              "pair": "CRV/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-07-25 20:35:00+00:00",
+              "close_date": "2025-07-27 06:00:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1493593530184301,
+              "profit_abs": -3423.28253607,
+              "stake_amount": 22931.2390846
+            },
+            "candidate": {
+              "pair": "CRV/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-07-25 20:35:00+00:00",
+              "close_date": "2025-07-26 02:30:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06441274568100654,
+              "profit_abs": -1986.87672073,
+              "stake_amount": 30861.448849
+            },
+            "profit_delta_pp": 8.494660733742355
+          },
+          {
+            "baseline": {
+              "pair": "NOT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-28 06:55:00+00:00",
+              "close_date": "2025-03-01 07:55:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.14866361752290744,
+              "profit_abs": -1027.30861508,
+              "stake_amount": 6913.74623778
+            },
+            "candidate": {
+              "pair": "NOT/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-02-28 06:55:00+00:00",
+              "close_date": "2025-02-28 14:45:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.060842921460894844,
+              "profit_abs": -429.4665435,
+              "stake_amount": 7062.14254469
+            },
+            "profit_delta_pp": 8.78206960620126
+          },
+          {
+            "baseline": {
+              "pair": "NEIRO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-14 19:05:00+00:00",
+              "close_date": "2025-05-15 01:40:00+00:00",
+              "exit_reason": "trailing_stop_loss",
+              "profit_ratio": -0.1484388588269359,
+              "profit_abs": -2185.09300476,
+              "stake_amount": 14727.85573189
+            },
+            "candidate": {
+              "pair": "NEIRO/USDT:USDT",
+              "is_short": true,
+              "open_date": "2025-05-14 19:05:00+00:00",
+              "close_date": "2025-05-14 22:30:00+00:00",
+              "exit_reason": "v16_failed_rebound_short",
+              "profit_ratio": -0.06008359400374495,
+              "profit_abs": -1198.05605924,
+              "stake_amount": 19949.79506151
+            },
+            "profit_delta_pp": 8.835526482319093
+          },
+          {
+            "baseline": {
+              "pair": "ACT/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-04-02 01:10:00+00:00",
+              "close_date": "2025-04-02 12:50:00+00:00",
+              "exit_reason": "stop_loss",
+              "profit_ratio": -0.2507496251875494,
+              "profit_abs": -1927.43265098,
+              "stake_amount": 7682.8406616
+            },
+            "candidate": {
+              "pair": "ACT/USDT:USDT",
+              "is_short": false,
+              "open_date": "2025-04-02 01:10:00+00:00",
+              "close_date": "2025-04-02 05:05:00+00:00",
+              "exit_reason": "v16_failed_rebound_long",
+              "profit_ratio": -0.06462148329667604,
+              "profit_abs": -673.473372,
+              "stake_amount": 10416.610224
+            },
+            "profit_delta_pp": 18.612814189087334
+          }
+        ]
+      }
+    },
+    "V17": {
+      "days": 365,
+      "mean_daily_return_pct": 0.6973802640477827,
+      "mean_daily_log_return_pct": 0.6091248073111042,
+      "daily_variance_decimal": 0.0017305580312119817,
+      "daily_variance_pp2": 17.305580312119815,
+      "daily_std_pct": 4.159997633667574,
+      "downside_deviation_zero_pct": 2.666340111324254,
+      "worst_5pct_days_mean_return_pct": -9.161036700156785,
+      "worst_day_pct": -17.571373678107616,
+      "negative_days": 128,
+      "lag1_autocorrelation": 0.05331733502421952,
+      "monthly_returns_pct": {
+        "2025-01": 4.246973794125042,
+        "2025-02": -0.33478214026907427,
+        "2025-03": 31.791512818718704,
+        "2025-04": 37.41000675952342,
+        "2025-05": 31.804133082829434,
+        "2025-06": 7.568261668390974,
+        "2025-07": 26.569766413190777,
+        "2025-08": 35.53638744171366,
+        "2025-09": -9.477945579224457,
+        "2025-10": 4.060685422654031,
+        "2025-11": 79.49706759500592,
+        "2025-12": 19.387523478829838
+      },
+      "quarterly_returns_pct": {
+        "2025Q1": 36.92871112175,
+        "2025Q2": 94.81910341122695,
+        "2025Q3": 55.28885447319627,
+        "2025Q4": 122.99903497067754
+      },
+      "monthly_variance_pp2": 570.9010577923088,
+      "positive_months": 10,
+      "versus_v5": {
+        "block_days": 7,
+        "draws": 2000,
+        "seed": 20260907,
+        "daily_log_excess_pct": -0.15917279383340233,
+        "bootstrap_95pct_interval_pp": [
+          -0.23889449922797373,
+          -0.08127637230396063
+        ],
+        "interpretation": "descriptive paired block bootstrap on seen data, not a future guarantee or multiple-testing correction"
+      },
+      "trades": {
+        "trades": 855,
+        "ev_pct": 0.4838318410995439,
+        "trade_variance_pp2": 19.71077529355382,
+        "pf": 1.4540528847020415,
+        "equal_stake_pf": 1.4563341202586322,
+        "total_pnl": 65902.53188776001,
+        "gross_loss": 145142.85473818,
+        "win_rate_pct": 84.09356725146199
+      },
+      "long": {
+        "trades": 172,
+        "ev_pct": 0.4166697073808446,
+        "trade_variance_pp2": 25.74855573951514,
+        "pf": 1.4437441730427416,
+        "equal_stake_pf": 1.3290723703515603,
+        "total_pnl": 15108.89081307,
+        "gross_loss": 34048.65174785,
+        "win_rate_pct": 68.6046511627907
+      },
+      "short": {
+        "trades": 683,
+        "ev_pct": 0.500745292050666,
+        "trade_variance_pp2": 18.22438099352543,
+        "pf": 1.4572123450861902,
+        "equal_stake_pf": 1.496575670708081,
+        "total_pnl": 50793.64107468999,
+        "gross_loss": 111094.20299032998,
+        "win_rate_pct": 87.99414348462665
+      },
+      "matched": {
+        "matched": 855,
+        "changed_exits": 0,
+        "winners_to_losses": 0,
+        "improved_exits": 0,
+        "changed_baseline": {
+          "trades": 0
+        },
+        "changed_candidate": {
+          "trades": 0
+        },
+        "changed_mean_delta_pp": 0,
+        "new": {
+          "trades": 0
+        },
+        "missing": {
+          "trades": 0
+        },
+        "cases": []
+      }
+    },
+    "correlation": {
+      "V5": {
+        "V5": 1.0,
+        "V14": 0.9274633488432603,
+        "V16": 0.6718221919539477,
+        "V17": 0.9849846491478652
+      },
+      "V14": {
+        "V5": 0.9274633488432603,
+        "V14": 1.0,
+        "V16": 0.6559127696188964,
+        "V17": 0.91007701475527
+      },
+      "V16": {
+        "V5": 0.6718221919539477,
+        "V14": 0.6559127696188964,
+        "V16": 1.0,
+        "V17": 0.637469402519014
+      },
+      "V17": {
+        "V5": 0.9849846491478652,
+        "V14": 0.91007701475527,
+        "V16": 0.637469402519014,
+        "V17": 1.0
+      }
+    },
+    "covariance_pp2": {
+      "V5": {
+        "V5": 20.904194108010106,
+        "V14": 20.605300461584807,
+        "V16": 14.803199308963809,
+        "V17": 18.734377213534493
+      },
+      "V14": {
+        "V5": 20.605300461584807,
+        "V14": 23.611901414992587,
+        "V16": 15.360172495595341,
+        "V17": 18.396563761292953
+      },
+      "V16": {
+        "V5": 14.803199308963809,
+        "V14": 15.360172495595341,
+        "V16": 23.2257128525782,
+        "V17": 12.780179510711383
+      },
+      "V17": {
+        "V5": 18.734377213534493,
+        "V14": 18.396563761292953,
+        "V16": 12.780179510711383,
+        "V17": 17.305580312119805
+      }
+    }
+  }
+}

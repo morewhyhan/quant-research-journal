@@ -1,0 +1,98 @@
+{
+  "apr-jun-2026": {
+    "main_effects": {
+      "R排序": {
+        "mean_daily_log_return_pct": -0.09882044116355426,
+        "daily_variance_pp2": -0.5271593265468333,
+        "pf": 0.050825299302035276,
+        "mtm_max_drawdown_pct": 9.508543925562662e-07
+      },
+      "E退出": {
+        "mean_daily_log_return_pct": -0.5054954885715768,
+        "daily_variance_pp2": 14.724247251021271,
+        "pf": -0.6736596374702433,
+        "mtm_max_drawdown_pct": 13.452747776068264
+      },
+      "B仓位": {
+        "mean_daily_log_return_pct": -0.10306374122002815,
+        "daily_variance_pp2": -12.82857512277183,
+        "pf": 0.03171507151641384,
+        "mtm_max_drawdown_pct": -8.746450870437805
+      }
+    },
+    "pair_interactions": {
+      "R排序×E退出": {
+        "mean_daily_log_return_pct": 0.08168848325529537,
+        "daily_variance_pp2": 5.729522009700748,
+        "pf": -0.171187692269697,
+        "mtm_max_drawdown_pct": 1.2408084302251154e-06
+      },
+      "R排序×B仓位": {
+        "mean_daily_log_return_pct": 0.010099977043838304,
+        "daily_variance_pp2": 0.4672441214375489,
+        "pf": -0.0073087249036433155,
+        "mtm_max_drawdown_pct": 2.4788993897573164e-06
+      },
+      "E退出×B仓位": {
+        "mean_daily_log_return_pct": 0.006904853371273056,
+        "daily_variance_pp2": -17.36742105700078,
+        "pf": 0.02220150446560687,
+        "mtm_max_drawdown_pct": -3.343612615742991
+      }
+    },
+    "third_order": {
+      "mean_daily_log_return_pct": -0.009793357342980369,
+      "daily_variance_pp2": -1.8287338717393098,
+      "pf": 0.012447004929981409,
+      "mtm_max_drawdown_pct": 3.5991228912735096e-06
+    }
+  },
+  "year-2025": {
+    "main_effects": {
+      "R排序": {
+        "mean_daily_log_return_pct": 0.016091680779374617,
+        "daily_variance_pp2": 1.7855572386007985,
+        "pf": 0.029855976198451817,
+        "mtm_max_drawdown_pct": 1.8603346084207857
+      },
+      "E退出": {
+        "mean_daily_log_return_pct": 0.01295093157825511,
+        "daily_variance_pp2": 1.0751801147758648,
+        "pf": -0.22243959836716054,
+        "mtm_max_drawdown_pct": 9.322068709407418
+      },
+      "B仓位": {
+        "mean_daily_log_return_pct": -0.11791357908081057,
+        "daily_variance_pp2": -6.050391798172786,
+        "pf": -0.04541142721185398,
+        "mtm_max_drawdown_pct": -7.306272799307102
+      }
+    },
+    "pair_interactions": {
+      "R排序×E退出": {
+        "mean_daily_log_return_pct": -0.11756666100450802,
+        "daily_variance_pp2": 0.5779481154997281,
+        "pf": -0.06064574152734448,
+        "mtm_max_drawdown_pct": -1.160809312125723
+      },
+      "R排序×B仓位": {
+        "mean_daily_log_return_pct": 0.00963253812264192,
+        "daily_variance_pp2": -1.832930629480808,
+        "pf": 0.007111607778886864,
+        "mtm_max_drawdown_pct": -2.190713479414681
+      },
+      "E退出×B仓位": {
+        "mean_daily_log_return_pct": 0.06262093507581129,
+        "daily_variance_pp2": -2.4813077523018716,
+        "pf": 0.10549461076097466,
+        "mtm_max_drawdown_pct": -6.511158753724219
+      }
+    },
+    "third_order": {
+      "mean_daily_log_return_pct": -0.020529912613460932,
+      "daily_variance_pp2": 1.1786352455646885,
+      "pf": -0.018897380919792983,
+      "mtm_max_drawdown_pct": 5.381530188621408
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "tests_run": 3,
+  "failures": 0,
+  "errors": 0,
+  "checked_script_hashes": {
+    "test_report.py": "b1efc4e27aedbed5929b4c51bfa87243a08082a2271ead785a647f4740927988",
+    "summarize.py": "f3a819e19e536def0d7b768fc6042a67762e1434b24f0d4761ad07a5f5853a84",
+    "research_stats.py": "4117a960a339cad4653faf29f9c7f27cc8da1c570ecdf4d9d616ed969d59da0c"
+  }
+}

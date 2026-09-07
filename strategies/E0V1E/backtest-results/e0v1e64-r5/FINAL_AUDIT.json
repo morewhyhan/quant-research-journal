@@ -1,0 +1,166 @@
+{
+  "passed": true,
+  "new_backtests": 8,
+  "reused_controls": 8,
+  "checks": [
+    {
+      "period": "apr-jun-2026",
+      "version": "V5",
+      "result_sha256": "f278a05e7bdafd3bdccea2409558b4c86872cf141865ed487e0e10d90bfbacb7",
+      "reused": true,
+      "days": 90,
+      "trades": 255,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "apr-jun-2026",
+      "version": "V14",
+      "result_sha256": "97756c4ef02681088975b93ca7bbe2ddfe0caaadff80411fe709026269520c51",
+      "reused": true,
+      "days": 90,
+      "trades": 225,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "apr-jun-2026",
+      "version": "V16",
+      "result_sha256": "5b40aba2a202511e9d1627fd8f6f0aed732724f3a4763d9a12901f7c8f67a1fc",
+      "reused": true,
+      "days": 90,
+      "trades": 327,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "apr-jun-2026",
+      "version": "V17",
+      "result_sha256": "749995d6910328cbb348128d28d0267b732dfc9705c9f6dddd051bdbea164f42",
+      "reused": true,
+      "days": 90,
+      "trades": 255,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "apr-jun-2026",
+      "version": "V18",
+      "result_sha256": "83b9b06dc50160a6d94a11a84fd65c3b8f9113b68f3c4e7cfaf0d64239e453fc",
+      "reused": false,
+      "days": 90,
+      "trades": 225,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "apr-jun-2026",
+      "version": "V19",
+      "result_sha256": "e0a20cdaf9d0dbeeec09c3825f0efb9a2167c8a496b7c3aac3d9ea65f40249f8",
+      "reused": false,
+      "days": 90,
+      "trades": 328,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "apr-jun-2026",
+      "version": "V20",
+      "result_sha256": "40e349295e2e6ca61de078d9ec32c37fe24308ce59ab7b68f85c6ab1f7f61b5d",
+      "reused": false,
+      "days": 90,
+      "trades": 327,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "apr-jun-2026",
+      "version": "V21",
+      "result_sha256": "99b97c0552fe0f479f8fc48ad1db594184fd59e30c28e6fa30bbf5e23c6b6ce3",
+      "reused": false,
+      "days": 90,
+      "trades": 328,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V5",
+      "result_sha256": "c10f8cb596949fbc88532e79a3187245e5073f11b59c84cd66a3dc70b2fbbc6d",
+      "reused": true,
+      "days": 365,
+      "trades": 855,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V14",
+      "result_sha256": "e6e1d2ede45c19a4bb40232a2c1682d850d0c6c6a2c6182f9446eaf7fdbee945",
+      "reused": true,
+      "days": 365,
+      "trades": 858,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V16",
+      "result_sha256": "ffdf8d1a3cd61e6ffa33dc388806dda57c37e0a88432c85387ecdb5de11d8df7",
+      "reused": true,
+      "days": 365,
+      "trades": 1112,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V17",
+      "result_sha256": "5bda6288502f31f3624e027ba976a9d4b0da1d06467c7260ebc11781324be686",
+      "reused": true,
+      "days": 365,
+      "trades": 855,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V18",
+      "result_sha256": "a923d0114332e87da97f63f0925e060715222c7ed25df1902783134b1319f29d",
+      "reused": false,
+      "days": 365,
+      "trades": 858,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V19",
+      "result_sha256": "494c2032c1c920863ea9d88a0e1b7f436e5e420f88f197d58088175b2f25eb8b",
+      "reused": false,
+      "days": 365,
+      "trades": 1104,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V20",
+      "result_sha256": "5a7ae49949b67c78e9155393b43fe413cc565f8cf8d0692fe1e1db78069c886c",
+      "reused": false,
+      "days": 365,
+      "trades": 1112,
+      "variance_units_and_equity_reconciled": true
+    },
+    {
+      "period": "year-2025",
+      "version": "V21",
+      "result_sha256": "e1dd3fcdc3813ac839cd14638c8eb1d294d7498a3d7013a7e17df931f7bc017c",
+      "reused": false,
+      "days": 365,
+      "trades": 1104,
+      "variance_units_and_equity_reconciled": true
+    }
+  ],
+  "combination_tests": 8,
+  "report_math_tests": 3,
+  "report_script_hashes": {
+    "analyze_existing.py": "22b0086fe37ee2300390f59ef3d4b8f8ca427fa325f7ecf6f3a6596e0a02bce6",
+    "capture_environment.py": "e561b65fb2c458cdda65f1b5196de4e3b8ae0f59ea5f73b59e9b6b473d05e3b1",
+    "final_audit.py": "49be48a148e4bc6e496f469fdd95395f4e1f276e32653d7ae4e268acfd9a5ed0",
+    "research_stats.py": "4117a960a339cad4653faf29f9c7f27cc8da1c570ecdf4d9d616ed969d59da0c",
+    "run_suite.py": "261411b91803d75ac7c99c87ff4d47a716d573231a1d469c1fc6e75bb82edd27",
+    "summarize.py": "f3a819e19e536def0d7b768fc6042a67762e1434b24f0d4761ad07a5f5853a84",
+    "test_combinations.py": "8317f6f3fe445511633db014b4289591e126823acfe2505f3a0ca74f726a8912",
+    "test_report.py": "b1efc4e27aedbed5929b4c51bfa87243a08082a2271ead785a647f4740927988",
+    "valuation.py": "e34ef10d81da1504b5d9582c00956b5f0a7961ed66410dcd2614296a7c9caddc",
+    "verify_archive.py": "f0b1d13def0b87c68b42013b011d32abee5dfd94bb38c6acdb9f2de6dde9f3e7",
+    "window_report.py": "cd9b734fb636ce4cf32f6277206f30e025524309991b132d508137d3439b62ee"
+  }
+}
